@@ -1,0 +1,57 @@
+Report for Institution Code NHMO, Resource aves_s
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "podiceps cristatus institutioncode:NHMO" ; Times: 1
+	Query: "Tadorna ferruginea" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 1
+	Query: "Gavia immer year >= 1905 year <= 1905" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 25
+Total number of records retrieved from searches: 147
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 29
+Total number of records retrieved from searches: 165
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
