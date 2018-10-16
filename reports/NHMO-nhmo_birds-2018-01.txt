@@ -1,0 +1,423 @@
+Report for Institution Code NHMO, Resource nhmo_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 431
+Number of records retrieved in searches: 4709
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 144
+	Country: India ; Times: 7
+	Country: Singapore ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 13
+	Country: Sweden ; Times: 19
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 207
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 4
+	Date: 2018-01-18 ; Times: 4
+	Date: 2018-01-31 ; Times: 5
+	Date: 2018-01-30 ; Times: 11
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-10 ; Times: 5
+	Date: 2018-01-12 ; Times: 12
+	Date: 2018-01-15 ; Times: 50
+	Date: 2018-01-14 ; Times: 1
+	Date: 2018-01-17 ; Times: 32
+	Date: 2018-01-16 ; Times: 111
+	Date: 2018-01-24 ; Times: 12
+	Date: 2018-01-25 ; Times: 12
+	Date: 2018-01-08 ; Times: 15
+	Date: 2018-01-09 ; Times: 42
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 4
+	Date: 2018-01-02 ; Times: 4
+	Date: 2018-01-03 ; Times: 6
+	Date: 2018-01-26 ; Times: 77
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-06 ; Times: 4
+	Date: 2018-01-22 ; Times: 5
+	Date: 2018-01-05 ; Times: 4
+	Date: 2018-01-23 ; Times: 5
+	Date: 2018-01-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:elliotii genus:Dendropicos" ; Times: 2
+	Query: "Anas acuta" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "Cotinga amabilis" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Pachyramphus major" ; Times: 1
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "Parkesia noveboracensis" ; Times: 1
+	Query: "Manacus candei" ; Times: 1
+	Query: "myrmotherula behni" ; Times: 1
+	Query: "dendrocitta leucogastra" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 1
+	Query: "Riparia riparia" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Cossypha isabellae" ; Times: 1
+	Query: "36607" ; Times: 3
+	Query: "Celeus castaneus" ; Times: 1
+	Query: "specificepithet:isabellae genus:Cossypha" ; Times: 2
+	Query: "seebohmi" ; Times: 1
+	Query: "Leptotila cassinii" ; Times: 1
+	Query: "Amazilia candida" ; Times: 1
+	Query: "Vireo pallens" ; Times: 1
+	Query: "Phylloscopus pulcher vntype:specimen" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "cettia cetti" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 12
+	Query: "Arizelocichla tephrolaema mappable:1" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Ara macao" ; Times: 1
+	Query: "51835" ; Times: 1
+	Query: "Campylopterus  curvipennis" ; Times: 1
+	Query: "moho braccatus" ; Times: 4
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter country:&#34;Norway&#34; year &gt;= 1993 year &lt;= 1995 institutioncode:NHMO" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "specificepithet:lopezi genus:Bradypterus" ; Times: 2
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "dicrurus megarhynchus" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 1
+	Query: "specificepithet:pulcherrimus genus:Psephotus" ; Times: 7
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "Megalurus punctatus" ; Times: 1
+	Query: "Leptopogon amaurocephalus" ; Times: 1
+	Query: "Eurillas latirostris" ; Times: 1
+	Query: "Patagioenas speciosa" ; Times: 1
+	Query: "specificepithet:lopezi genus:Poliolais" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 1
+	Query: "specificepithet:reichenowi genus:Cinnyris" ; Times: 2
+	Query: "vntype:specimen specificepithet:aalge genus:uria country:&#34;iceland&#34;" ; Times: 2
+	Query: "Malurus melanocephalus sex:male hassex:1" ; Times: 1
+	Query: "herpsilochmus pectoralis" ; Times: 6
+	Query: "specificepithet:ursulae genus:Cinnyris" ; Times: 2
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "class:Aves country:&#34;New Zealand&#34; year &gt;= 1700 year &lt;= 1845" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Caryothraustes poliogaster" ; Times: 1
+	Query: "Eupherusa eximia" ; Times: 1
+	Query: "Mionectes oleagineus" ; Times: 1
+	Query: "&#34;Megalurus punctatus&#34;" ; Times: 3
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "77136" ; Times: 1
+	Query: "saxicola rubicola" ; Times: 1
+	Query: "specificepithet:atroflavus genus:laniarius" ; Times: 1
+	Query: "turdus ruficollis" ; Times: 1
+	Query: "Arizelocichla tephrolaema" ; Times: 1
+	Query: "Rhytipterna holerythra" ; Times: 1
+	Query: "Heliothryx barroti" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Eurillas latirostris mappable:1" ; Times: 1
+	Query: "country:&#34;India&#34; year &gt;= 1873 year &lt;= 1873" ; Times: 3
+	Query: "Legatus leucophaius" ; Times: 1
+	Query: "genus:empidonax country:&#34;Canada&#34; hastissue:1" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "29233" ; Times: 3
+	Query: "Phylloscopus affinis vntype:specimen" ; Times: 2
+	Query: "Dendrocopos leucotos" ; Times: 3
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Dendrocygna javanica vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinctus genus:poecile year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "tetrao urogallus" ; Times: 1
+	Query: "Anser anser vntype:specimen hastissue:1" ; Times: 3
+	Query: "class:aves (23884)" ; Times: 1
+	Query: "Volatinia jacarina" ; Times: 1
+	Query: "Cyanistes caeruleus sex:Male hassex:1" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "specificepithet:reichenovii genus:Cryptospiza" ; Times: 2
+	Query: "neodrepanis" ; Times: 1
+	Query: "Cyanistes caeruleus sex:female hassex:1" ; Times: 1
+	Query: "Crypturellus boucardi" ; Times: 1
+	Query: "Thamnistes anabatinus" ; Times: 1
+	Query: "specificepithet:montana genus:Arizelocichla" ; Times: 2
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Psarocolius montezuma" ; Times: 1
+	Query: "Lampornis viridipallens" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 1
+	Query: "dicrurus caerulescens" ; Times: 1
+	Query: "Synallaxis erythrothorax" ; Times: 1
+	Query: "sylvia atricapilla" ; Times: 2
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Phyllastrephus" ; Times: 2
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "Aix galericulata sex:Female hassex:1" ; Times: 1
+	Query: "76908" ; Times: 1
+	Query: "Granatellus sallaei" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "genus:Nucifraga country:&#34;Germany&#34;" ; Times: 2
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "Glaucidium griseiceps" ; Times: 1
+	Query: "20821" ; Times: 1
+	Query: "Leptotila plumbeiceps" ; Times: 1
+	Query: "specificepithet:cinctus genus:Poecile" ; Times: 4
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Malurus cyaneus hassex:1" ; Times: 1
+	Query: "Euphonia gouldi" ; Times: 1
+	Query: "Tityra inquisitor" ; Times: 1
+	Query: "Pulsatrix perspicillata" ; Times: 1
+	Query: "Rhynchocyclus brevirostris" ; Times: 1
+	Query: "sylvia minula" ; Times: 6
+	Query: "Malurus cyaneus vntype:specimen hassex:1" ; Times: 2
+	Query: "emberiza pusilla" ; Times: 1
+	Query: "specificepithet:poliothorax genus:Kakamega" ; Times: 2
+	Query: "Malurus melanocephalus sex:Female hassex:1" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter institutioncode:NHMO" ; Times: 1
+	Query: "phylloscopus ibericus" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "Pheugopedius maculipectus" ; Times: 1
+	Query: "Patagioenas nigrirostris" ; Times: 1
+	Query: "specificepithet:atroflavus genus:Laniarius" ; Times: 2
+	Query: "catalognumber:35341" ; Times: 1
+	Query: "Aramides cajaneus" ; Times: 1
+	Query: "phyllastrephus poliocephalus" ; Times: 3
+	Query: "Anser anser anser vntype:specimen hastissue:1" ; Times: 1
+	Query: "Vermivora cyanoptera" ; Times: 1
+	Query: "Setophaga discolor" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Colaptes rubiginosus" ; Times: 1
+	Query: "specificepithet:strepera genus:anas class:Aves year &gt;= 1880 year &lt;= 1890" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "Locustella" ; Times: 1
+	Query: "specificepithet:elliotii genus:dendropicos" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinctus genus:poecile class:aves" ; Times: 2
+	Query: "AMPELICEPS CORONATUS" ; Times: 3
+	Query: "specificepithet:epichlorus genus:Urolais" ; Times: 2
+	Query: "genus:bradypterus country:&#34;cameroon&#34;" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 2
+	Query: "specificepithet:albiventris genus:Elminia" ; Times: 2
+	Query: "Cygnus olor sex:female hassex:1" ; Times: 1
+	Query: "specificepithet:vittatum genus:apaloderma" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "Setophaga virens" ; Times: 1
+	Query: "Cossypha caffra" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "specificepithet:herberti genus:Phylloscopus" ; Times: 2
+	Query: "24291" ; Times: 1
+	Query: "21220" ; Times: 1
+	Query: "Pterodroma caribbaea" ; Times: 1
+	Query: "Locustellidae" ; Times: 1
+	Query: "myadestes myadestinus" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Aix galericulata sex:Male hassex:1" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "seicercus whistleri" ; Times: 14
+	Query: "Vermivora chrysoptera" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 3
+	Query: "trochalopteron cachinnans" ; Times: 11
+	Query: "Dendrocygna arcuata arcuata vntype:specimen" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Crex Crex" ; Times: 13
+	Query: "myrmotherula behni vntype:specimen" ; Times: 1
+	Query: "Micrastur ruficollis" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax country:&#34;Canada&#34; hastissue:1" ; Times: 1
+	Query: "Patagioenas cayennensis" ; Times: 1
+	Query: "Dendrocopos major" ; Times: 1
+	Query: "Momotus lessonii" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "Cossypha isabellae mappable:1" ; Times: 1
+	Query: "Buteo plagiatus" ; Times: 1
+	Query: "dicrurus macrocercus" ; Times: 4
+	Query: "Aix galericulata sex:female hassex:1" ; Times: 1
+	Query: "specificepithet:chubbi genus:Cisticola" ; Times: 2
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "17892" ; Times: 1
+	Query: "Trogon melanocephalus" ; Times: 1
+	Query: "Hydroprogne caspia" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Colinus nigrogularis" ; Times: 1
+	Query: "61419" ; Times: 1
+	Query: "specificepithet:poensis genus:Phyllastrephus" ; Times: 2
+	Query: "84111" ; Times: 1
+	Query: "Melanerpes pucherani" ; Times: 1
+	Query: "Arremon brunneinucha" ; Times: 1
+	Query: "genus:Accipiter institutioncode:NHMO" ; Times: 1
+	Query: "Lanio aurantius" ; Times: 1
+	Query: "14014" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Cyanolanius" ; Times: 1
+	Query: "Megarynchus pitangua" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Zosterops palpebrosus country:&#34;India&#34;" ; Times: 1
+	Query: "Anas discors" ; Times: 1
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "Setophaga fusca" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Buteo augur" ; Times: 2
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "specificepithet:insignis genus:Ploceus" ; Times: 2
+	Query: "Falco femoralis" ; Times: 1
+	Query: "specificepithet:bocagei genus:Sheppardia" ; Times: 2
+	Query: "Pseudastur albicollis" ; Times: 1
+	Query: "catalognumber:10738" ; Times: 3
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "Brachypteryx montana india vntype:specimen" ; Times: 1
+	Query: "Hylopsar cupreocauda" ; Times: 1
+	Query: "specificepithet:cinctus class:aves" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "Botaurus pinnatus" ; Times: 1
+	Query: "specificepithet:vittatum genus:Apaloderma" ; Times: 12
+	Query: "Trogon caligatus" ; Times: 1
+	Query: "Dendrocygna eytoni vntype:specimen" ; Times: 1
+	Query: "specificepithet:tephrolaema genus:Arizelocichla" ; Times: 2
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "Xiphorhynchus erythropygius" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "Cochoa purpurea" ; Times: 2
+	Query: "Trogon mexicanus" ; Times: 1
+	Query: "Myiodynastes luteiventris" ; Times: 1
+	Query: "Aix galericulata sex:male hassex:1" ; Times: 1
+	Query: "Hylomanes momotula" ; Times: 1
+	Query: "Cyanistes caeruleus sex:Female hassex:1" ; Times: 1
+	Query: "pogoniulus atroflavus" ; Times: 1
+	Query: "specificepithet:melanogaster genus:Ploceus" ; Times: 2
+	Query: "specificepithet:oritis genus:Cyanomitra" ; Times: 2
+	Query: "specificepithet:gentilis genus:Accipiter country:&#34;Norway&#34; institutioncode:NHMO" ; Times: 2
+	Query: "dicrurus ludwigii" ; Times: 2
+	Query: "Campephilus guatemalensis" ; Times: 1
+	Query: "Bernieridae madagascariensis" ; Times: 1
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "Anser indicus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Picoides fumigatus" ; Times: 1
+	Query: "Zimmerius vilissimus" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Malurus melanocephalus sex:Male hassex:1" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Psalidoprocne" ; Times: 2
+	Query: "specificepithet:fuliginosus genus:Saltator" ; Times: 2
+	Query: "Cygnus olor sex:male hassex:1" ; Times: 1
+	Query: "Cyanistes caeruleus sex:male hassex:1" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 4
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1700 year &lt;= 1845" ; Times: 1
+	Query: "Setophaga pensylvanica" ; Times: 1
+	Query: "Phylloscopus pulcher" ; Times: 1
+	Query: "trochalopteron variegatum" ; Times: 3
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Ptiliogonys cinereus" ; Times: 1
+	Query: "Nyctibius grandis" ; Times: 1
+	Query: "Dendrocincla homochroa" ; Times: 1
+	Query: "42679" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "Penelopina nigra" ; Times: 1
+	Query: "Amblycercus holosericeus" ; Times: 1
+	Query: "specificepithet:cinerea genus:Apalis" ; Times: 2
+	Query: "Myiozetetes similis" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1398 download events in this period)
+Total number of records downloaded: 1591
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 25
+	Country: Germany ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 3
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-06 ; Times: 3
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 4
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-17 ; Times: 6
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-25 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "phylloscopus ibericus" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "vntype:specimen specificepithet:gilvus genus:Vireo year &gt;= 1980 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "Buteo augur" ; Times: 1
+	Query: "Phylloscopus affinis vntype:specimen" ; Times: 1
+	Query: "specificepithet:elliotii genus:dendropicos" ; Times: 1
+	Query: "Phylloscopus pulcher" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinctus genus:poecile class:aves" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Platysteiridae" ; Times: 1
+	Query: "pachyramphus aglaiae" ; Times: 1
+	Query: "Nucifraga caryocatactes" ; Times: 1
+	Query: "Phylloscopus pulcher vntype:specimen" ; Times: 1
+	Query: "specificepithet:vittatum genus:apaloderma" ; Times: 1
+	Query: "Bycanistes cylindricus" ; Times: 1
+	Query: "genus:Perisoreus" ; Times: 1
+	Query: "Nucifraga" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Locustellidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia hastissue:1" ; Times: 1
+	Query: "Bradypterus" ; Times: 1
+	Query: "Malurus cyaneus hassex:1" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 2
+	Query: "Locustella" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Sitta year &gt;= 1980 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Megalurus" ; Times: 2
+	Query: "Acrocephalus" ; Times: 1
+	Query: "capito aurovirens" ; Times: 1
+	Query: "Donacobius" ; Times: 1
+	Query: "gallus gallus vntype:specimen class:aves NOT (domesticus) year &lt;= 1930" ; Times: 1
+	Query: "Tephrodornis" ; Times: 1
+	Query: "Accipiter" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+
+
+End of report.
