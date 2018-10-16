@@ -1,0 +1,493 @@
+Report for Institution Code NHMO, Resource nhmo_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 489
+Number of records retrieved in searches: 10342
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 15
+	Country: Unknown ; Times: 61
+	Country: France ; Times: 2
+	Country: Israel ; Times: 5
+	Country: Czechia ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 152
+	Country: Sweden ; Times: 12
+	Country: Switzerland ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Portugal ; Times: 203
+	Country: Mexico ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 9
+	Country: Colombia ; Times: 3
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 9
+	Date: 2018-02-08 ; Times: 6
+	Date: 2018-02-02 ; Times: 9
+	Date: 2018-02-01 ; Times: 8
+	Date: 2018-02-07 ; Times: 15
+	Date: 2018-02-06 ; Times: 44
+	Date: 2018-02-05 ; Times: 30
+	Date: 2018-02-04 ; Times: 7
+	Date: 2018-02-21 ; Times: 3
+	Date: 2018-02-20 ; Times: 111
+	Date: 2018-02-23 ; Times: 13
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 20
+	Date: 2018-02-24 ; Times: 6
+	Date: 2018-02-27 ; Times: 110
+	Date: 2018-02-26 ; Times: 11
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-14 ; Times: 12
+	Date: 2018-02-15 ; Times: 14
+	Date: 2018-02-16 ; Times: 7
+	Date: 2018-02-17 ; Times: 5
+	Date: 2018-02-12 ; Times: 11
+	Date: 2018-02-13 ; Times: 23
+	Date: 2018-02-18 ; Times: 6
+	Date: 2018-02-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "specificepithet:poensis genus:neocossyphus country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "Larus fuscus" ; Times: 2
+	Query: "Muscicapidae+Cameroon" ; Times: 5
+	Query: "Oslo" ; Times: 1
+	Query: "Uraeginthus bengalus mappable:1" ; Times: 4
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Platysteira laticincta" ; Times: 3
+	Query: "Sylviidae Cameroon" ; Times: 1
+	Query: "delichon urbicum" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;nigeria&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:prasina genus:Hylia country:&#34;nigeria&#34; hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;cameroon&#34;" ; Times: 2
+	Query: "genus:Prunella hastissue:1" ; Times: 2
+	Query: "specificepithet:prasina genus:Hylia country:&#34;nigeria&#34;" ; Times: 4
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "specificepithet:maccormicki class:aves" ; Times: 6
+	Query: "35931" ; Times: 1
+	Query: "Picidae+Cameroon" ; Times: 1
+	Query: "Ara macao" ; Times: 4
+	Query: "specificepithet:chloris genus:nicator country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Lagonosticta senegala mappable:1" ; Times: 4
+	Query: "specificepithet:poensis genus:neocossyphus country:&#34;nigeria&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "ortygospiza" ; Times: 1
+	Query: "Psittacula krameri mappable:1" ; Times: 3
+	Query: "Rhodospiza obsoleta mappable:1" ; Times: 6
+	Query: "Cisticolidae+Cameroon" ; Times: 2
+	Query: "specificepithet:modesta genus:progne country:&#34;ecuador&#34;" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 2
+	Query: "Poeppig" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "Pytilia melba mappable:1" ; Times: 4
+	Query: "Dendrocopos major mappable:1" ; Times: 2
+	Query: "Trogonidae+Cameroon" ; Times: 1
+	Query: "Turdidae+Cameroon" ; Times: 2
+	Query: "Sicalis luteola mappable:1" ; Times: 4
+	Query: "(Prunella) hastissue:1" ; Times: 4
+	Query: "specificepithet:nitens genus:malimbus country:&#34;nigeria&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "Tephrodornis virgatus" ; Times: 1
+	Query: "Viduidae+Cameroon" ; Times: 1
+	Query: "dixiphia pipra" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;cameroon&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "Nectariniidae Cameroon" ; Times: 1
+	Query: "Estrilda troglodytes mappable:1" ; Times: 4
+	Query: "Streptopelia orientalis mappable:1" ; Times: 4
+	Query: "Quelea quelea mappable:1" ; Times: 4
+	Query: "genus:Surnia class:Aves hastissue:1" ; Times: 1
+	Query: "Alcedinidae+Cameroon" ; Times: 1
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "Anser indicus mappable:1" ; Times: 4
+	Query: "15928" ; Times: 1
+	Query: "Acrocephalus arundinaceus" ; Times: 2
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34;" ; Times: 1
+	Query: "hirundo rustica transitiva" ; Times: 1
+	Query: "Actophilornis africanus mappable:1" ; Times: 5
+	Query: "(19137)" ; Times: 1
+	Query: "specificepithet:calurus genus:criniger country:&#34;cameroon&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:urbicum genus:delichon continent:asia hastissue:1" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;nigeria&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "Campephagidae+Cameroon" ; Times: 1
+	Query: "Locustellidae+Cameroon" ; Times: 1
+	Query: "Toscana" ; Times: 1
+	Query: "specificepithet:fuliginosus genus:Saltator" ; Times: 1
+	Query: "specificepithet:olivacea genus:cyanomitra country:&#34;cameroon&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "Estrildidae Cameroon" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger country:&#34;cameroon&#34;" ; Times: 1
+	Query: "Euplectes afer mappable:1" ; Times: 4
+	Query: "specificepithet:rustica genus:Hirundo hastissue:1" ; Times: 2
+	Query: "delichon nipalense" ; Times: 1
+	Query: "Lamprotornis chalybaeus mappable:1" ; Times: 5
+	Query: "specificepithet:urbicum genus:delichon hastissue:1" ; Times: 2
+	Query: "Platysteira blissetti" ; Times: 1
+	Query: "Euplectes hordeaceus mappable:1" ; Times: 4
+	Query: "Monarchidae Cameroon" ; Times: 1
+	Query: "toscana" ; Times: 1
+	Query: "Quelea erythrops mappable:1" ; Times: 4
+	Query: "specificepithet:helianthea genus:Coeligena country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Eurylaimidae+Cameroon" ; Times: 1
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;cameroon&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "Pycnonotus cafer mappable:1" ; Times: 4
+	Query: "Passeridae+Cameroon" ; Times: 2
+	Query: "Fringillidae+Cameroon" ; Times: 3
+	Query: "19848" ; Times: 1
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (NOT Para)" ; Times: 2
+	Query: "Locustella fluviatilis" ; Times: 2
+	Query: "64210" ; Times: 1
+	Query: "Hirundinidae+Cameroon" ; Times: 1
+	Query: "specificepithet:rufiventer genus:terpsiphone country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Turdus rufitorques" ; Times: 1
+	Query: "specificepithet:rufiventer genus:terpsiphone country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "Lybiidae+Cameroon" ; Times: 1
+	Query: "Ploceus nigerrimus mappable:1" ; Times: 4
+	Query: "B-1357" ; Times: 1
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "Aix galericulata mappable:1" ; Times: 4
+	Query: "prunella" ; Times: 3
+	Query: "80294" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;nigeria&#34; hastissue:1" ; Times: 2
+	Query: "Vidua macroura mappable:1" ; Times: 4
+	Query: "galapagos specificepithet:modesta genus:progne" ; Times: 1
+	Query: "Philentoma velata" ; Times: 1
+	Query: "genus:psalidoprocne hastissue:1" ; Times: 7
+	Query: "catalognumber:447" ; Times: 1
+	Query: "specificepithet:pulcherrimus genus:psephotus" ; Times: 3
+	Query: "transitiva vntype:specimen specificepithet:rustica genus:hirundo" ; Times: 1
+	Query: "turnagra" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 9
+	Query: "Crithagra mozambica mappable:1" ; Times: 5
+	Query: "specificepithet:riparia genus:riparia continent:europe hastissue:1" ; Times: 6
+	Query: "Platysteira concreta" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "63298" ; Times: 1
+	Query: "progne modesta" ; Times: 1
+	Query: "Malaconotidae+Cameroon" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;nigeria&#34;" ; Times: 5
+	Query: "genus:delichon continent:asia hastissue:1" ; Times: 1
+	Query: "genus:cecropis hastissue:1" ; Times: 2
+	Query: "Pycnonotus leucogenys mappable:1" ; Times: 3
+	Query: "Emberizidae+Cameroon" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "genus:delichon hastissue:1" ; Times: 1
+	Query: "claravis geoffroyi" ; Times: 3
+	Query: "specificepithet:rufiventer genus:terpsiphone country:&#34;cameroon&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Vidua chalybeata mappable:1" ; Times: 3
+	Query: "Tockus nasutus mappable:1" ; Times: 3
+	Query: "AMPELICEPS CORONATUS" ; Times: 1
+	Query: "13778" ; Times: 1
+	Query: "79588" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "Zosteropidae Cameroon" ; Times: 2
+	Query: "Emberizidae Cameroon" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Pycnonotus xanthopygos mappable:1" ; Times: 3
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "Poephila acuticauda mappable:1" ; Times: 4
+	Query: "Euodice cantans mappable:1" ; Times: 3
+	Query: "Cisticolidae Cameroon" ; Times: 5
+	Query: "specificepithet:calurus genus:Criniger hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:74868" ; Times: 1
+	Query: "specificepithet:daurica genus:cecropis OR hirundo hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:TYrannus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:nipalense genus:delichon" ; Times: 2
+	Query: "Platysteiridae+Cameroon" ; Times: 2
+	Query: "genus:symposiachrus" ; Times: 1
+	Query: "specificepithet:montanus genus:passer" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 3
+	Query: "Corvus ruficollis mappable:1" ; Times: 4
+	Query: "specificepithet:chrysophrys genus:Emberiza" ; Times: 1
+	Query: "Streptopelia roseogrisea mappable:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:aluco genus:strix hastissue:1" ; Times: 4
+	Query: "Batis senegalensis" ; Times: 1
+	Query: "Euplectes ardens mappable:1" ; Times: 3
+	Query: "Ploceidae Cameroon" ; Times: 3
+	Query: "Chroicocephalus ridibundus" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "specificepithet:cristatus genus:Podiceps hastissue:1" ; Times: 1
+	Query: "Euodice malabarica mappable:1" ; Times: 5
+	Query: "Oena capensis mappable:1" ; Times: 4
+	Query: "threskiornis moluccus" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "genus:Hirundo hastissue:1" ; Times: 1
+	Query: "specificepithet:olivacea genus:cyanomitra country:&#34;nigeria&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "Estrilda melpoda mappable:1" ; Times: 4
+	Query: "petrochelidon fluvicola" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "pyrrhura perlata vntype:specimen" ; Times: 1
+	Query: "Lamprotornis chloropterus mappable:1" ; Times: 4
+	Query: "vntype:specimen class:Aves locality:sumatra country:&#34;indonesia&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:calurus genus:criniger country:&#34;nigeria&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "Sylviidae+Cameroon" ; Times: 1
+	Query: "Columbidae+Cameroon" ; Times: 2
+	Query: "Mimus gilvus mappable:1" ; Times: 4
+	Query: "specificepithet:poensis genus:neocossyphus country:&#34;cameroon&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "Lophorina superba" ; Times: 1
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "Emberiza caesia mappable:1" ; Times: 4
+	Query: "Taeniopygia guttata mappable:1" ; Times: 5
+	Query: "specificepithet:calurus genus:Criniger country:&#34;nigeria&#34;" ; Times: 2
+	Query: "Euplectes macroura mappable:1" ; Times: 5
+	Query: "Buteo augur" ; Times: 1
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "specificepithet:rufiventer genus:terpsiphone country:&#34;nigeria&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "Lonchura cucullata mappable:1" ; Times: 3
+	Query: "country:&#34;nigeria&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "Oceanites gracilis galapagoensis" ; Times: 1
+	Query: "Estrilda astrild mappable:1" ; Times: 4
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "Thalassarche carteri" ; Times: 2
+	Query: "specificepithet:prasina genus:hylia country:&#34;cameroon&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "Bucerotidae+Cameroon" ; Times: 2
+	Query: "specificepithet:prasina genus:hylia country:&#34;nigeria&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "pipra fasciicauda" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Ploceus luteolus mappable:1" ; Times: 4
+	Query: "Euplectes franciscanus mappable:1" ; Times: 4
+	Query: "Acrocephalus stentoreus" ; Times: 1
+	Query: "specificepithet:auritus genus:Podiceps hastissue:1" ; Times: 1
+	Query: "specificepithet:riparia genus:riparia hastissue:1" ; Times: 2
+	Query: "Estrildidae+Cameroon" ; Times: 4
+	Query: "46181" ; Times: 1
+	Query: "Ploceus cucullatus mappable:1" ; Times: 2
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34; year &gt;= 2000 year &lt;= 2017 institutioncode:NHMO" ; Times: 1
+	Query: "Muscicapa latirostris mappable:1" ; Times: 3
+	Query: "Ardea cinerea" ; Times: 2
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Estrilda caerulescens mappable:1" ; Times: 4
+	Query: "genus:cecropis OR hirundo (cucullata OR abyssinica OR semirufa OR senegalensis OR daurica OR striolata OR badia) hastissue:1" ; Times: 2
+	Query: "Philentoma pyrhoptera" ; Times: 1
+	Query: "atlantisia rogersi" ; Times: 1
+	Query: "Chionis albus mappable:1" ; Times: 4
+	Query: "class:aves (19137)" ; Times: 1
+	Query: "Pytilia phoenicoptera mappable:1" ; Times: 4
+	Query: "Serinus canaria mappable:1" ; Times: 4
+	Query: "pyrrhura perlata" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;cameroon&#34;" ; Times: 2
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "Lamprotornis purpureus mappable:1" ; Times: 4
+	Query: "Paridae Cameroon" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:similis genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 4
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34;" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "genus:Pogoniulus country:&#34;Nigeria&#34;" ; Times: 2
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "vntype:specimen genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "ptyonoprogne concolor" ; Times: 2
+	Query: "Musophaga violacea mappable:1" ; Times: 4
+	Query: "luscinia saturatior" ; Times: 1
+	Query: "Erythrura gouldiae mappable:1" ; Times: 3
+	Query: "Zosterops senegalensis mappable:1" ; Times: 4
+	Query: "Lonchura bicolor mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 165 (out of 1892 download events in this period)
+Total number of records downloaded: 16249
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 97
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 28
+	Country: India ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: France ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Brazil ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-02 ; Times: 13
+	Date: 2018-02-01 ; Times: 7
+	Date: 2018-02-07 ; Times: 5
+	Date: 2018-02-06 ; Times: 39
+	Date: 2018-02-05 ; Times: 32
+	Date: 2018-02-04 ; Times: 2
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-20 ; Times: 6
+	Date: 2018-02-23 ; Times: 16
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-24 ; Times: 4
+	Date: 2018-02-27 ; Times: 3
+	Date: 2018-02-26 ; Times: 3
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-11 ; Times: 11
+	Date: 2018-02-12 ; Times: 2
+	Date: 2018-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pycnonotidae+Cameroon" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Muscicapidae Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Liberia&#34;" ; Times: 1
+	Query: "Hemipus picatus" ; Times: 1
+	Query: "Platysteira laticincta" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "specificepithet:alaudipes genus:Alaemon" ; Times: 1
+	Query: "specificepithet:alchata genus:Pterocles" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "class:Aves country:&#34;Nepal&#34;" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "Grallaria varia" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 1
+	Query: "Trogonidae+Cameroon" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "Turdidae+Cameroon" ; Times: 1
+	Query: "specificepithet:gouldiae genus:Erythrura" ; Times: 1
+	Query: "class:Aves country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "Tephrodornis virgatus" ; Times: 1
+	Query: "class:Aves country:&#34;Sierra Leone&#34;" ; Times: 1
+	Query: "Nectariniidae Cameroon" ; Times: 1
+	Query: "specificepithet:orientalis genus:Pterocles" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "Alcedinidae+Cameroon" ; Times: 1
+	Query: "Estrildidae Cameroon" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 4
+	Query: "class:Aves country:&#34;Congo&#34;" ; Times: 2
+	Query: "Campephagidae+Cameroon" ; Times: 1
+	Query: "Locustellidae+Cameroon" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "specificepithet:esculenta genus:Collocalia" ; Times: 1
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "geospiza" ; Times: 1
+	Query: "Hemipus hirundinaceus" ; Times: 1
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "vntype:specimen genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "Ploceidae Cameroon" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Platysteira blissetti" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "class:Aves country:&#34;Nigeria&#34;" ; Times: 2
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Passeridae+Cameroon" ; Times: 1
+	Query: "Fringillidae+Cameroon" ; Times: 1
+	Query: "galbalcyrhynchus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (NOT Para)" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "Bucerotidae+Cameroon" ; Times: 1
+	Query: "Lybiidae+Cameroon" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "specificepithet:cristatus genus:Aegotheles" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "specificepithet:fuscans genus:Lonchura" ; Times: 1
+	Query: "rollandia" ; Times: 3
+	Query: "specificepithet:cyaneus genus:Malurus" ; Times: 1
+	Query: "Philentoma velata" ; Times: 1
+	Query: "genus:psalidoprocne hastissue:1" ; Times: 1
+	Query: "specificepithet:pulcherrimus genus:psephotus" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "Bourns" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Platysteira concreta" ; Times: 1
+	Query: "class:Aves country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "Viduidae+Cameroon" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "specificepithet:ocellata genus:Leipoa" ; Times: 1
+	Query: "genus:cecropis hastissue:1" ; Times: 1
+	Query: "Eurylaimidae+Cameroon" ; Times: 1
+	Query: "Emberizidae+Cameroon" ; Times: 1
+	Query: "Hirundinidae+Cameroon" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 5
+	Query: "capito aurovirens" ; Times: 1
+	Query: "Zosteropidae Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Bangladesh&#34;" ; Times: 1
+	Query: "specificepithet:spodocephala genus:Emberiza" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "Cisticolidae Cameroon" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger hastissue:1" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "Platysteiridae+Cameroon" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "specificepithet:chrysophrys genus:Emberiza" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "Batis senegalensis" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "class:Aves country:&#34;Senegal&#34;" ; Times: 1
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "threskiornis moluccus" ; Times: 2
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "Batis capensis" ; Times: 1
+	Query: "pyrrhura perlata vntype:specimen" ; Times: 1
+	Query: "ramphastos toco" ; Times: 4
+	Query: "Sylviidae+Cameroon" ; Times: 1
+	Query: "Columbidae+Cameroon" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "Malaconotidae+Cameroon" ; Times: 1
+	Query: "Picidae+Cameroon" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:flaveola genus:Coereba continent:North America" ; Times: 2
+	Query: "class:Aves country:&#34;Sudan&#34;" ; Times: 1
+	Query: "Philentoma pyrhoptera" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 2
+	Query: "Larus fuscus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "Paridae Cameroon" ; Times: 1
+	Query: "Platysteira castanea" ; Times: 1
+
+
+End of report.
