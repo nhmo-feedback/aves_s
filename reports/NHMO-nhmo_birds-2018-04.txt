@@ -1,0 +1,214 @@
+Report for Institution Code NHMO, Resource nhmo_birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 1428
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 2
+	Country: Iran ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 3
+	Country: Indonesia ; Times: 7
+	Country: India ; Times: 3
+	Country: United States ; Times: 64
+	Country: Norway ; Times: 5
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 7
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-21 ; Times: 2
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 5
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 2
+	Date: 2018-04-03 ; Times: 6
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 16
+	Date: 2018-04-04 ; Times: 5
+	Date: 2018-04-07 ; Times: 9
+	Date: 2018-04-06 ; Times: 4
+	Date: 2018-04-09 ; Times: 4
+	Date: 2018-04-08 ; Times: 7
+	Date: 2018-04-30 ; Times: 10
+	Date: 2018-04-12 ; Times: 7
+	Date: 2018-04-13 ; Times: 6
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-11 ; Times: 11
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-17 ; Times: 5
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "26781" ; Times: 1
+	Query: "Ceyx erithaca India" ; Times: 1
+	Query: "vntype:specimen genus:nicator chloris hastissue:1" ; Times: 1
+	Query: "genus:porzana class:aves hastissue:1" ; Times: 1
+	Query: "specificepithet:grisegena genus:Podiceps hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:virens genus:eurillas country:&#34;cameroon&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Arundinicola class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "75314" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 4
+	Query: "34929" ; Times: 2
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus" ; Times: 4
+	Query: "29110" ; Times: 1
+	Query: "country:&#34;Nigeria&#34; institutioncode:NHMO" ; Times: 3
+	Query: "75309" ; Times: 1
+	Query: "36218" ; Times: 1
+	Query: "amaurornis flavirostra hastissue:1" ; Times: 1
+	Query: "75025" ; Times: 1
+	Query: "Corvus cornix" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1899 year &lt;= 1900" ; Times: 1
+	Query: "amazona festiva" ; Times: 2
+	Query: "vntype:specimen specificepithet:virens genus:eurillas country:&#34;nigeria&#34;" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "Acrocephalus rufescens vntype:specimen hastissue:1" ; Times: 1
+	Query: "lanius mongolia" ; Times: 1
+	Query: "Falco cherrug" ; Times: 1
+	Query: "class:Aves recordedby:Perez" ; Times: 1
+	Query: "79965" ; Times: 1
+	Query: "vntype:specimen specificepithet:macroura genus:Euplectes country:&#34;Nigeria&#34; institutioncode:NHMO" ; Times: 2
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "perdicula asiatica" ; Times: 1
+	Query: "Pseudastur polionotus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "parus major" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:nicator country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "thlypopsis sordida" ; Times: 1
+	Query: "specificepithet:RUFICOLLIS genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "B-27251" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "72648" ; Times: 1
+	Query: "Claravis geoffroyi" ; Times: 1
+	Query: "genus:Stiphrornis hastissue:1" ; Times: 1
+	Query: "ficedula institutioncode:NHMO" ; Times: 1
+	Query: "Stiphrornis" ; Times: 2
+	Query: "family:rallidae class:aves hastissue:1" ; Times: 3
+	Query: "Gymnomyza aubryana" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:nicator country:&#34;cameroon&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Phleocryptes country:&#34;Peru&#34;" ; Times: 1
+	Query: "coeligena prunellei" ; Times: 2
+	Query: "vntype:specimen genus:Phleocryptes country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "porzana parva hastissue:1" ; Times: 1
+	Query: "stiphrornis" ; Times: 6
+	Query: "AMPELICEPS CORONATUS" ; Times: 7
+	Query: "genus:turdus year &gt;= 1938 year &lt;= 1938 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "vntype:specimen genus:nicator chloris country:&#34;cameroon&#34;" ; Times: 1
+	Query: "35872" ; Times: 1
+	Query: "specificepithet:auritus genus:Podiceps hastissue:1" ; Times: 5
+	Query: "trochalopteron cachinnans" ; Times: 3
+	Query: "specificepithet:minutus genus:Ixobrychus hastissue:1" ; Times: 1
+	Query: "Anser erythropus" ; Times: 1
+	Query: "phylloscopus 4813" ; Times: 2
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus hastissue:1" ; Times: 2
+	Query: "specificepithet:cristatus genus:Podiceps hastissue:1" ; Times: 2
+	Query: "phylloscopus 4814" ; Times: 1
+	Query: "knipolegus orenocensis" ; Times: 1
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "58831" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "genus:dixiphia hastissue:1" ; Times: 1
+	Query: "Pogoniulus chrysoconus" ; Times: 1
+	Query: "specificepithet:cinctus genus:poecile class:aves year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:nicator hastissue:1" ; Times: 1
+	Query: "29688" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "NHM A16" ; Times: 1
+	Query: "specificepithet:philippensis genus:Pelecanus" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1896 year &lt;= 1898" ; Times: 1
+	Query: "68904" ; Times: 1
+	Query: "Lamprotornis splendidus vntype:specimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:nicator country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Corvinella corvina vntype:specimen hastissue:1" ; Times: 2
+	Query: "corvus splendens" ; Times: 3
+	Query: "vntype:specimen genus:Fluvicola class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1359 download events in this period)
+Total number of records downloaded: 1046
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 1
+	Country: United States ; Times: 8
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-05 ; Times: 5
+	Date: 2018-04-17 ; Times: 5
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 4
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 5
+	Query: "caracara cheriway" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Hemispingus superciliaris" ; Times: 1
+	Query: "Atlapetes latinuchus" ; Times: 1
+	Query: "Pipile cumanensis" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "caracara" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Aramides ypecaha" ; Times: 1
+	Query: "ramphocelus nigrogularis" ; Times: 1
+	Query: "thlypopsis sordida" ; Times: 1
+	Query: "New Guinea" ; Times: 1
+	Query: "Geositta" ; Times: 1
+	Query: "amaurornis flavirostra hastissue:1" ; Times: 1
+	Query: "perdicula asiatica" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "knipolegus orenocensis" ; Times: 1
+	Query: "genus:Cyanolyca" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+
+
+End of report.
