@@ -1,0 +1,480 @@
+Report for Institution Code NHMO, Resource nhmo_birds
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 643
+Number of records retrieved in searches: 8828
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 6
+	Country: Netherlands ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 11
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 4
+	Country: United States ; Times: 561
+	Country: Germany ; Times: 11
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 7
+	Country: Norway ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 58
+	Date: 2018-03-29 ; Times: 27
+	Date: 2018-03-17 ; Times: 1
+	Date: 2018-03-16 ; Times: 15
+	Date: 2018-03-15 ; Times: 13
+	Date: 2018-03-14 ; Times: 18
+	Date: 2018-03-13 ; Times: 3
+	Date: 2018-03-12 ; Times: 20
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-09 ; Times: 5
+	Date: 2018-03-31 ; Times: 3
+	Date: 2018-03-30 ; Times: 2
+	Date: 2018-03-19 ; Times: 14
+	Date: 2018-03-18 ; Times: 3
+	Date: 2018-03-01 ; Times: 6
+	Date: 2018-03-02 ; Times: 17
+	Date: 2018-03-03 ; Times: 26
+	Date: 2018-03-04 ; Times: 4
+	Date: 2018-03-05 ; Times: 16
+	Date: 2018-03-28 ; Times: 32
+	Date: 2018-03-07 ; Times: 3
+	Date: 2018-03-08 ; Times: 9
+	Date: 2018-03-27 ; Times: 82
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 17
+	Date: 2018-03-23 ; Times: 56
+	Date: 2018-03-20 ; Times: 12
+	Date: 2018-03-21 ; Times: 54
+	Date: 2018-03-26 ; Times: 124
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chroicocephalus specificepithet:philadelphia" ; Times: 2
+	Query: "genus:Nothoprocta  specificepithet:perdicaria" ; Times: 3
+	Query: "garrulax rufifrons" ; Times: 1
+	Query: "Nesocichla eremita" ; Times: 1
+	Query: "34047" ; Times: 1
+	Query: "genus:Cuculus specificepithet:canorus" ; Times: 4
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "dicrurus annectans malaysia" ; Times: 1
+	Query: "class:Aves (17829)" ; Times: 1
+	Query: "specificepithet:crossleyi genus:geokichla" ; Times: 1
+	Query: "vntype:specimen specificepithet:prasina genus:hylia country:&#34;nigeria&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:virens genus:eurillas country:&#34;cameroon&#34; hastissue:1" ; Times: 3
+	Query: "genus:Anas specificepithet:acuta" ; Times: 5
+	Query: "vntype:specimen specificepithet:duchaillui genus:buccanodon country:&#34;nigeria&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:icterinus genus:phyllastrephus country:&#34;nigeria&#34;" ; Times: 3
+	Query: "ptilinopus jambu" ; Times: 1
+	Query: "catalognumber:42382" ; Times: 2
+	Query: "genus:akialoa class:AVES" ; Times: 5
+	Query: "Cephalopyrus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulvescens genus:illadopsis country:&#34;nigeria&#34;" ; Times: 1
+	Query: "specificepithet:daurica genus:cecropis OR hirundo continent:africa year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:rufiventer genus:terpsiphone hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;cameroon&#34;" ; Times: 1
+	Query: "47432`" ; Times: 1
+	Query: "specificepithet:crossleyi" ; Times: 1
+	Query: "genus:Rhinortha specificepithet:chlorophaea" ; Times: 6
+	Query: "circus cyaneus vntype:specimen hastissue:1" ; Times: 2
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 2
+	Query: "specificepithet:prasina genus:Hylia country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Ara specificepithet:macao" ; Times: 5
+	Query: "genus:apalis specificepithet:cinerea country:&#34;cameroon&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:kempi genus:macrosphenus country:&#34;nigeria&#34;" ; Times: 3
+	Query: "catalognumber:63511" ; Times: 2
+	Query: "genus:laniarius specificepithet:atroflavus" ; Times: 1
+	Query: "genus:Trogon specificepithet:curucui" ; Times: 2
+	Query: "Lophura bulweri" ; Times: 23
+	Query: "class:Aves (24335)" ; Times: 2
+	Query: "dicrurus annectans" ; Times: 1
+	Query: "vntype:specimen specificepithet:poensis genus:neocossyphus country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "21570" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "specificepithet:chloris genus:Nicator hastissue:1" ; Times: 1
+	Query: "genus:Merops specificepithet:pusillus" ; Times: 6
+	Query: "specificepithet:modesta genus:progne country:&#34;ecuador&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:barbatus genus:criniger country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 5
+	Query: "catalognumber:43401" ; Times: 1
+	Query: "genus:Alca specificepithet:torda" ; Times: 5
+	Query: "genus:Celeus specificepithet:flavus" ; Times: 6
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 6
+	Query: "15119" ; Times: 1
+	Query: "catalognumber:38102 hastissue:1" ; Times: 1
+	Query: "gymnomystax mexicanus" ; Times: 1
+	Query: "cranioleuca vulpecula" ; Times: 1
+	Query: "genus:Cyanoramphus specificepithet:auriceps" ; Times: 6
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 6
+	Query: "genus:apalis specificepithet:jacksoni country:&#34;cameroon&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:curvirostris genus:eurillas country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Apus specificepithet:apus" ; Times: 5
+	Query: "genus:Dendrocopos specificepithet:major" ; Times: 5
+	Query: "vntype:specimen specificepithet:badia genus:halcyon country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Aythya specificepithet:fuligula" ; Times: 5
+	Query: "nesospiza" ; Times: 1
+	Query: "vntype:specimen specificepithet:poensis genus:neocossyphus country:&#34;cameroon&#34;" ; Times: 3
+	Query: "class:Aves institutioncode:NHMO" ; Times: 1
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 2
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 5
+	Query: "vntype:specimen specificepithet:albigularis genus:phyllastrephus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Anas specificepithet:crecca" ; Times: 5
+	Query: "16171" ; Times: 3
+	Query: "dixiphia pipra" ; Times: 1
+	Query: "genus:Philepitta specificepithet:castanea" ; Times: 6
+	Query: "Nucifraga hemispila" ; Times: 8
+	Query: "genus:Campephilus specificepithet:rubricollis" ; Times: 6
+	Query: "vntype:specimen specificepithet:scolopaceus genus:pogoniulus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "class:Aves (28984)" ; Times: 1
+	Query: "vntype:specimen specificepithet:poliocephala genus:pseudalethe country:&#34;nigeria&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:punctatus genus:Falco" ; Times: 1
+	Query: "genus:Baryphthengus specificepithet:martii" ; Times: 6
+	Query: "vntype:specimen specificepithet:scandens genus:phyllastrephus country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:virens genus:eurillas country:&#34;nigeria&#34;" ; Times: 3
+	Query: "genus:Haematopus specificepithet:ostralegus" ; Times: 2
+	Query: "Turnix sylvaticus" ; Times: 1
+	Query: "zoothera dauma india" ; Times: 1
+	Query: "Nesospiza wilkinsi" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "specificepithet:virens genus:eurillas country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "cantorchilus leucotis" ; Times: 1
+	Query: "33640" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloronota genus:camaroptera country:&#34;nigeria&#34;" ; Times: 1
+	Query: "furnarius figulus" ; Times: 2
+	Query: "genus:Columba specificepithet:livia" ; Times: 5
+	Query: "Columba livia " ; Times: 2
+	Query: "family:alcidae hastissue:1" ; Times: 1
+	Query: "genus:Merops specificepithet:viridis" ; Times: 2
+	Query: "vntype:specimen specificepithet:splendidus genus:lamprotornis country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Anas specificepithet:discors" ; Times: 3
+	Query: "specificepithet:barbatus genus:criniger country:&#34;nigeria&#34;" ; Times: 1
+	Query: "24890" ; Times: 1
+	Query: "genus:Dicrurus specificepithet:paradiseus" ; Times: 2
+	Query: "nesospiza acunhae" ; Times: 1
+	Query: "35919" ; Times: 1
+	Query: "genus:cryptospiza specificepithet:reichenovii" ; Times: 1
+	Query: "specificepithet:albigularis genus:phyllastrephus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Taeniopygia specificepithet:guttata" ; Times: 2
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 5
+	Query: "recordedby:swinhoe" ; Times: 1
+	Query: "vntype:specimen specificepithet:syndactylus country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:cleaveri genus:illadopsis country:&#34;nigeria&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:superbus genus:cinnyris country:&#34;ghana&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Spain&#34; institutioncode:NHMO" ; Times: 1
+	Query: "genus:Actitis specificepithet:hypoleucos" ; Times: 5
+	Query: "class:Aves recordedby:McConnell" ; Times: 1
+	Query: "erithacus rubecula" ; Times: 1
+	Query: "class:Aves (10328)" ; Times: 1
+	Query: "genus:dendropicos specificepithet:elliotii" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:macrosphenus country:&#34;nigeria&#34;" ; Times: 2
+	Query: "genus:Chrysocolaptes specificepithet:lucidus" ; Times: 2
+	Query: "Diglossa indigotica" ; Times: 4
+	Query: "genus:Merops specificepithet:leschenaulti" ; Times: 6
+	Query: "turdus merula" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 2
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 5
+	Query: "poliolais lopezi" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculatus genus:indicator country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:pileata genus:Halcyon country:&#34;Malaysia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:nigrita country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Ciconia specificepithet:nigra" ; Times: 5
+	Query: "vntype:specimen specificepithet:calurus genus:criniger country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 5
+	Query: "geokichla citrina" ; Times: 1
+	Query: "genus:Neophema specificepithet:elegans" ; Times: 2
+	Query: "genus:Opisthocomus specificepithet:hoazin" ; Times: 2
+	Query: "specificepithet:shelleyi class:aves genus:nesocharis" ; Times: 1
+	Query: "genus:Coracias specificepithet:cyanogaster" ; Times: 6
+	Query: "26996" ; Times: 1
+	Query: "vntype:specimen specificepithet:aereus genus:ceuthmochares country:&#34;nigeria&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:flammulata genus:Asthenes" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus hastissue:1" ; Times: 3
+	Query: "Laniarius atroflavus" ; Times: 1
+	Query: "genus:Nothoprocta specificepithet:perdicaria" ; Times: 2
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "genus:Spheniscus specificepithet:magellanicus" ; Times: 5
+	Query: "vntype:specimen specificepithet:mechowi genus:cercococcyx country:&#34;nigeria&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:atroflavus genus:pogoniulus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "pernis tissue" ; Times: 2
+	Query: "saxicola jerdoni" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax hastissue:1" ; Times: 2
+	Query: "synallaxis propinqua" ; Times: 1
+	Query: "genus:Terpsiphone class:Aves (29087)" ; Times: 1
+	Query: "specificepithet:bubo genus:Bubo hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:fusconotus genus:nigrita country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Scolopax specificepithet:rusticola" ; Times: 5
+	Query: "genus:Vanellus specificepithet:miles" ; Times: 2
+	Query: "R 23339" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga hastissue:1" ; Times: 1
+	Query: "44414" ; Times: 1
+	Query: "vntype:specimen specificepithet:baumanni genus:phyllastrephus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "catalognumber:15284 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:latirostris genus:eurillas country:&#34;nigeria&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:lecontei genus:ispidina country:&#34;nigeria&#34;" ; Times: 1
+	Query: "50204" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;nigeria&#34;" ; Times: 2
+	Query: "genus:Neodrepanis specificepithet:coruscans" ; Times: 6
+	Query: "catalognumber:32364 institutioncode:NHMO" ; Times: 1
+	Query: "class:aves (16522)" ; Times: 1
+	Query: "catalognumber:24417 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:scandens genus:phyllastrephus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "specificepithet:cyanea genus:Diglossa country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Falco specificepithet:tinnunculus" ; Times: 5
+	Query: "vntype:specimen specificepithet:chloris genus:nicator country:&#34;cameroon&#34;" ; Times: 1
+	Query: "furnarius minor" ; Times: 1
+	Query: "specificepithet:punctatus genus:Falco" ; Times: 1
+	Query: "specificepithet:shelleyi class:aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:canicapillus genus:nigrita country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Dacelo specificepithet:novaeguineae" ; Times: 2
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "53539" ; Times: 1
+	Query: "genus:bradypterus country:&#34;cameroon&#34;" ; Times: 2
+	Query: "Neomorphus geoffroyi" ; Times: 2
+	Query: "Compsothraupis loricata" ; Times: 7
+	Query: "vntype:specimen specificepithet:canicapillus genus:nigrita country:&#34;ghana&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:Nicator hastissue:1" ; Times: 1
+	Query: "genus:Jacana specificepithet:jacana" ; Times: 2
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 5
+	Query: "genus:Ramphastos specificepithet:dicolorus" ; Times: 5
+	Query: "genus:Anseranas specificepithet:semipalmata" ; Times: 5
+	Query: "vntype:specimen specificepithet:chloris genus:Nicator country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "treron olax malaysia" ; Times: 1
+	Query: "genus:Centropus specificepithet:toulou" ; Times: 6
+	Query: "class:aves country:&#34;cameroon&#34; hastissue:1" ; Times: 3
+	Query: "specificepithet:poensis genus:neocossyphus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "avian" ; Times: 1
+	Query: "vntype:specimen specificepithet:syndactylus genus:bleda country:&#34;nigeria&#34;" ; Times: 1
+	Query: "catalognumber:76325" ; Times: 2
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34;" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:nicator country:&#34;nigeria&#34;" ; Times: 3
+	Query: "emberiza aureola" ; Times: 1
+	Query: "institutioncode:NHMO" ; Times: 2
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "Nesospiza acunhae" ; Times: 1
+	Query: "trochalopteron cachinnans" ; Times: 1
+	Query: "rallina fasciata" ; Times: 1
+	Query: "specificepithet:unicolor genus:Aphelocoma" ; Times: 2
+	Query: "B 1482" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34;" ; Times: 6
+	Query: "genus:Caprimulgus specificepithet:europaeus" ; Times: 5
+	Query: "vntype:specimen specificepithet:poensis genus:neocossyphus country:&#34;nigeria&#34;" ; Times: 3
+	Query: "stateprovince:&#34;Galicia&#34; country:&#34;Spain&#34;" ; Times: 7
+	Query: "genus:Cranioleuca country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "genus:Alcedo specificepithet:atthis" ; Times: 5
+	Query: "specificepithet:daurica genus:cecropis OR hirundo continent:africa" ; Times: 2
+	Query: "specificepithet:alnorum genus:empidonax country:&#34;Canada&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:leucorrhoa hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:virens genus:eurillas country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:subsulphureus genus:pogoniulus country:&#34;nigeria&#34;" ; Times: 2
+	Query: "catalognumber:13463 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:simplex genus:chlorocichla country:&#34;nigeria&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:rubricollis genus:malimbus country:&#34;ghana&#34;" ; Times: 2
+	Query: "acrocephalus dumetorum india" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus country:&#34;nigeria&#34;" ; Times: 4
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "genus:Podiceps specificepithet:cristatus" ; Times: 5
+	Query: "petrochelidon fluvicola" ; Times: 2
+	Query: "genus:Luscinia specificepithet:megarhynchos" ; Times: 5
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:Nicator country:&#34;cameroon&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga country:&#34;cameroon&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:brehmeri genus:turtur country:&#34;nigeria&#34;" ; Times: 1
+	Query: "15144" ; Times: 1
+	Query: "Cossypha polioptera" ; Times: 1
+	Query: "ptilinopus jambu malaysia" ; Times: 1
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "rallina fasciata malaysia" ; Times: 1
+	Query: "genus:Fluvicola class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:7360" ; Times: 2
+	Query: "vntype:specimen specificepithet:gracilis genus:eurillas country:&#34;nigeria&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:canicapillus genus:bleda country:&#34;nigeria&#34;" ; Times: 1
+	Query: "26356" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger country:&#34;nigeria&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:trochocercus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Cephalopyrus flammiceps" ; Times: 2
+	Query: "62969" ; Times: 1
+	Query: "genus:Apteryx specificepithet:haastii" ; Times: 5
+	Query: "catalognumber:66195" ; Times: 1
+	Query: "vntype:specimen specificepithet:poensis genus:neocossyphus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:nicator hastissue:1" ; Times: 2
+	Query: "acrocephalus agricola" ; Times: 2
+	Query: "Cossypha polioptera mappable:1" ; Times: 1
+	Query: "Pseudorectes ferrugineus" ; Times: 2
+	Query: "specificepithet:poliocephala genus:pseudalethe hastissue:1" ; Times: 1
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Psittacus specificepithet:erithacus" ; Times: 2
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 5
+	Query: "vntype:specimen specificepithet:minullus genus:cinnyris country:&#34;nigeria&#34;" ; Times: 1
+	Query: "18525" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:Nicator country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Falco specificepithet:cenchroides" ; Times: 2
+	Query: "catalognumber:64268" ; Times: 1
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 2
+	Query: "vntype:specimen specificepithet:virens genus:sylvietta country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Pelagodroma specificepithet:marina" ; Times: 2
+	Query: "genus:Turnix class:Aves country:&#34;Spain&#34;" ; Times: 1
+	Query: "catalognumber:13908 hastissue:1" ; Times: 1
+	Query: "specificepithet:taranta genus:Agapornis" ; Times: 1
+	Query: "vntype:specimen specificepithet:subsulphureus genus:pogoniulus country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "72742" ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 5
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Colonia class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "psalidoprocne obscura" ; Times: 3
+	Query: "vntype:specimen specificepithet:fulvescens genus:illadopsis country:&#34;nigeria&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:superciliaris genus:camaroptera country:&#34;nigeria&#34;" ; Times: 2
+	Query: "specificepithet:virens genus:eurillas country:&#34;cameroon&#34; hastissue:1" ; Times: 1
+	Query: "country:&#34;Nigeria&#34; institutioncode:NHMO" ; Times: 1
+	Query: "16522 class:Aves" ; Times: 1
+	Query: "52261" ; Times: 1
+	Query: "genus:Coracias specificepithet:garrulus" ; Times: 5
+	Query: "catalognumber:64879" ; Times: 1
+	Query: "genus:Diomedea specificepithet:exulans" ; Times: 2
+	Query: "vntype:specimen specificepithet:cyanocampter genus:cossypha country:&#34;nigeria&#34;" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 5
+	Query: "class:Aves country:&#34;Nigeria&#34; institutioncode:NHMO" ; Times: 1
+	Query: "vntype:specimen specificepithet:fraseri genus:deleornis country:&#34;nigeria&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloronota genus:camaroptera country:&#34;cameroon&#34;" ; Times: 1
+	Query: "treron olax" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicator genus:baeopogon country:&#34;nigeria&#34;" ; Times: 1
+	Query: "65223" ; Times: 1
+	Query: "Streptopelia decaocto " ; Times: 2
+	Query: "turdoides leucocephala" ; Times: 1
+	Query: "vntype:specimen specificepithet:olivacea genus:cyanomitra country:&#34;nigeria&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:blissetti genus:platysteira country:&#34;nigeria&#34;" ; Times: 1
+	Query: "ptyonoprogne concolor" ; Times: 1
+	Query: "genus:Neophema specificepithet:pulchella" ; Times: 6
+	Query: "genus:Cyclopsitta specificepithet:diophthalma" ; Times: 6
+	Query: "vntype:specimen specificepithet:virens genus:eurillas country:&#34;cameroon&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:castanea genus:platysteira country:&#34;nigeria&#34;" ; Times: 1
+	Query: "specificepithet:finschi genus:Stizorhina class:Aves country:&#34;Nigeria&#34; institutioncode:NHMO" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 1284 download events in this period)
+Total number of records downloaded: 18123
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 7
+	Country: Singapore ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 4
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-08 ; Times: 4
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 4
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 5
+	Date: 2018-03-10 ; Times: 2
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-18 ; Times: 6
+	Date: 2018-03-01 ; Times: 3
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-03 ; Times: 2
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-07 ; Times: 4
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-20 ; Times: 2
+	Date: 2018-03-21 ; Times: 1
+	Date: 2018-03-27 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "synallaxis propinqua" ; Times: 1
+	Query: "lampropsar tanagrinus" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "synallaxis gujanensis" ; Times: 2
+	Query: "picumnus cirratus" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2010 month &gt;= 1 month &lt;= 12 startdayofyear &gt;= 1" ; Times: 1
+	Query: "family:laridae mappable:1" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "cranioleuca vulpecula" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "paroaria gularis" ; Times: 1
+	Query: "furnarius figulus" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "cephalopterus ornatus" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "anthracothorax viridigula" ; Times: 1
+	Query: "furnarius minor" ; Times: 1
+	Query: "gymnoderus foetidus" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "pycnonotus plumosus" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "family:Laridae mappable:1" ; Times: 1
+	Query: "Aves 2010" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "aphelocoma woodhouseii" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "recordedby:swinhoe" ; Times: 1
+	Query: "class:Aves country:&#34;Spain&#34; institutioncode:NHMO" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "specificepithet:imperialis genus:Campephilus country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:alcidae hastissue:1" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "family:laridae hastissue:1" ; Times: 1
+	Query: "family:alcidae AND (NOT eggs) mappable:1" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 3
+	Query: "class:Aves 2000 specimen" ; Times: 1
+	Query: "specificepithet:unicolor genus:Aphelocoma" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "gymnomystax mexicanus" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "family:gruidae hastissue:1" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "family:alcidae mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;Galicia&#34; country:&#34;Spain&#34;" ; Times: 2
+	Query: "emberiza aureola" ; Times: 2
+	Query: "Ficedula narcissina" ; Times: 1
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "Trogon caligatus" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax country:&#34;Canada&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Portugal&#34;" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "pycnonotus simplex" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "pipra aureola" ; Times: 1
+	Query: "class:Aves country:&#34;Equatorial Guinea&#34; continent:Africa" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Buteo plagiatus" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "specificepithet:alnorum genus:empidonax hastissue:1" ; Times: 1
+
+
+End of report.
