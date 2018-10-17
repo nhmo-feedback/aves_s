@@ -1,0 +1,215 @@
+Report for Institution Code NHMO, Resource nhmo_birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 2039
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Turkey ; Times: 11
+	Country: Netherlands ; Times: 1
+	Country: Iran ; Times: 17
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: Denmark ; Times: 17
+	Country: Finland ; Times: 1
+	Country: India ; Times: 2
+	Country: Cyprus ; Times: 5
+	Country: Papua New Guinea ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Ireland ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Italy ; Times: 1
+	Country: United States ; Times: 53
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-02 ; Times: 5
+	Date: 2018-09-03 ; Times: 10
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-20 ; Times: 7
+	Date: 2018-09-21 ; Times: 7
+	Date: 2018-09-04 ; Times: 6
+	Date: 2018-09-05 ; Times: 22
+	Date: 2018-09-08 ; Times: 11
+	Date: 2018-09-09 ; Times: 4
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-11 ; Times: 7
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 6
+	Date: 2018-09-17 ; Times: 18
+	Date: 2018-09-16 ; Times: 3
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 9
+	Date: 2018-09-24 ; Times: 6
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-06 ; Times: 7
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterophanes" ; Times: 3
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "turacoena manadensis" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "specificepithet:media genus:Gallinago hastissue:1" ; Times: 2
+	Query: "Jacamaralcyon tridactyla" ; Times: 1
+	Query: "corvus corax" ; Times: 2
+	Query: "Motacilla flava lutea" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "sterna dougallii" ; Times: 1
+	Query: "falco rupicolus" ; Times: 1
+	Query: "Strigops habroptila" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "specificepithet:rufonuchalis genus:periparus" ; Times: 1
+	Query: "vntype:specimen specificepithet:chrysops genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:tachuris hastissue:1" ; Times: 1
+	Query: "dixiphia pipra" ; Times: 2
+	Query: "vntype:specimen specificepithet:caeruleus genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:manadensis" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "specificepithet:haematonota genus:epinecrophylla" ; Times: 1
+	Query: "Megascops watsonii" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 1
+	Query: "specificepithet:acunhae genus:nesospiza" ; Times: 1
+	Query: "macropygia modiglianii" ; Times: 1
+	Query: "specificepithet:nemoricola genus:Gallinago" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 7
+	Query: "Progne modesta" ; Times: 5
+	Query: "Thlypopsis sordida" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 15
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "ciconia ciconia hastissue:1" ; Times: 1
+	Query: "poecile palustris" ; Times: 2
+	Query: "turdus merula" ; Times: 1
+	Query: "sylvia atricapilla" ; Times: 2
+	Query: "epinecrophylla haematonota" ; Times: 1
+	Query: "macropygia emiliana" ; Times: 2
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "toxorhamphus poliopterus" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanopogon genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "50292 class:Aves" ; Times: 2
+	Query: "specificepithet:semitorquatus genus:Arremon" ; Times: 1
+	Query: "passer hispaniolensis" ; Times: 8
+	Query: "periparus ater -skin" ; Times: 1
+	Query: "Zosterops japonicus hastissue:1" ; Times: 2
+	Query: "specificepithet:corone genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:minor genus:parus" ; Times: 2
+	Query: "Semioptera" ; Times: 1
+	Query: "Podiceps taczanowskii" ; Times: 1
+	Query: "specificepithet:torquilla genus:jynx hastissue:1" ; Times: 1
+	Query: "specificepithet:himalayensis genus:dendrocopos" ; Times: 2
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "60204 class:Aves" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "avian" ; Times: 1
+	Query: "specificepithet:pica genus:Pica class:Aves hastissue:1" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "specificepithet:questi genus:nesospiza" ; Times: 2
+	Query: "specificepithet:cotinga genus:cotinga" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "specificepithet:nubicus genus:Lanius class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:gallinago genus:Gallinago hastissue:1" ; Times: 3
+	Query: "specificepithet:wilkinsi genus:nesospiza" ; Times: 2
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "epinecrophylla amazonica" ; Times: 2
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "specificepithet:fernandezianus genus:anairetes" ; Times: 3
+	Query: "catalognumber:1980 hastissue:1" ; Times: 1
+	Query: "99925" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "locality:Corinto" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "specificepithet:ater genus:Periparus" ; Times: 1
+	Query: "tortugensis pertinax" ; Times: 3
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 2
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "Anthornis melanura Canterbury Museum" ; Times: 1
+	Query: "specificepithet:cornix genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:notiochelidon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:stenura genus:Gallinago hastissue:1" ; Times: 1
+	Query: "specificepithet:juncidis genus:Cisticola class:Aves hastissue:1" ; Times: 1
+	Query: "corvus splendens" ; Times: 2
+	Query: "sitta europaea" ; Times: 2
+	Query: "specificepithet:darjellensis genus:dendrocopos" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 846 download events in this period)
+Total number of records downloaded: 1186
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 8
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Norway ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 6
+	Date: 2018-09-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Zosterops japonicus hastissue:1" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Aves vntype:specimen country:&#34;Philippines&#34; hastissue:1" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "Melopsittacus" ; Times: 1
+	Query: "locality:kolymsk" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 2
+	Query: "locality:kolyma" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "sphyrapicus varius" ; Times: 1
+
+
+End of report.
