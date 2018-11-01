@@ -1,0 +1,232 @@
+Report for Institution Code NHMO, Resource nhmo_birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 169
+Number of records retrieved in searches: 982
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 20
+	Country: Netherlands ; Times: 6
+	Country: Iran ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Serbia ; Times: 1
+	Country: Sweden ; Times: 7
+	Country: France ; Times: 3
+	Country: United States ; Times: 97
+	Country: Austria ; Times: 1
+	Country: China ; Times: 12
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 8
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-23 ; Times: 9
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-03 ; Times: 5
+	Date: 2018-10-30 ; Times: 7
+	Date: 2018-10-22 ; Times: 7
+	Date: 2018-10-05 ; Times: 4
+	Date: 2018-10-20 ; Times: 2
+	Date: 2018-10-07 ; Times: 2
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-27 ; Times: 9
+	Date: 2018-10-24 ; Times: 6
+	Date: 2018-10-25 ; Times: 35
+	Date: 2018-10-29 ; Times: 7
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 4
+	Date: 2018-10-13 ; Times: 5
+	Date: 2018-10-11 ; Times: 8
+	Date: 2018-10-10 ; Times: 13
+	Date: 2018-10-17 ; Times: 9
+	Date: 2018-10-16 ; Times: 5
+	Date: 2018-10-15 ; Times: 9
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:zelandica genus:aplonis" ; Times: 1
+	Query: "22838" ; Times: 1
+	Query: "vntype:specimen specificepithet:albiventer genus:tachycineta class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:jynx hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Apodidae hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:jynx hastissue:1" ; Times: 4
+	Query: "catalognumber:9690 hastissue:1" ; Times: 1
+	Query: "acrocephalus arundinaceus asia" ; Times: 3
+	Query: "bandipur" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "pycnonotus melanicterus india" ; Times: 1
+	Query: "macrocephalon maleo" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "genus:STELGIDOPTERYX class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "iole olivacea" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "apus" ; Times: 1
+	Query: "Aerodramus fuciphagus" ; Times: 1
+	Query: "locality:inaccessible" ; Times: 1
+	Query: "oriolus kundoo india" ; Times: 1
+	Query: "Progne modesta" ; Times: 1
+	Query: "specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Hirundo rustica hastissue:1" ; Times: 2
+	Query: "20614" ; Times: 2
+	Query: "genus:glaucidium country:&#34;china&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:subalaris genus:Amblyornis institutioncode:NHMO" ; Times: 1
+	Query: "elephant bird" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "vntype:specimen genus:Troglodytes class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "trichastoma rostratum" ; Times: 2
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "aviceda leuphotes" ; Times: 1
+	Query: "Pipile cumanensis" ; Times: 1
+	Query: "gyps indicus" ; Times: 7
+	Query: "specificepithet:crassa genus:aplonis" ; Times: 1
+	Query: "catalognumber:9666 hastissue:1" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "vntype:specimen specificepithet:tapera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:tachycineta class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "snethlage class:aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "Pezoporus" ; Times: 1
+	Query: "aves apus" ; Times: 1
+	Query: "Sasia abnormis" ; Times: 1
+	Query: "catalognumber:9630 hastissue:1" ; Times: 1
+	Query: "63225" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "catalognumber:74911" ; Times: 1
+	Query: "garrulus whitakeri" ; Times: 1
+	Query: "Prunella tissue" ; Times: 2
+	Query: "Aerodramus francicus" ; Times: 1
+	Query: "catalognumber:1496 hastissue:1" ; Times: 1
+	Query: "Apus unicolor" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "Semioptera" ; Times: 1
+	Query: "vntype:specimen specificepithet:troglodytes genus:Troglodytes year &gt;= 2016 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:90913" ; Times: 1
+	Query: "oxyruncus cristatus brazil" ; Times: 2
+	Query: "53280" ; Times: 2
+	Query: "77807" ; Times: 1
+	Query: "ploceus capensis" ; Times: 3
+	Query: "catalognumber:42162 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis preparations:skin" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "15546" ; Times: 1
+	Query: "Tachymarptis melba" ; Times: 1
+	Query: "Dolichonyx oryzivorus hastissue:1" ; Times: 3
+	Query: "23926" ; Times: 1
+	Query: "vntype:specimen specificepithet:aedon genus:Troglodytes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aquila heliaca" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "genus:heliornis haslifestage:1" ; Times: 1
+	Query: "limosa lapponica menzbieri" ; Times: 3
+	Query: "family:apodidae hastissue:1" ; Times: 7
+	Query: "18237" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:NHMO basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "francolinus pictus" ; Times: 1
+	Query: "vntype:specimen genus:Troglodytes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "Falco cherrug" ; Times: 1
+	Query: "Apus apus" ; Times: 1
+	Query: "specificepithet:subalaris genus:Amblyornis" ; Times: 2
+	Query: "doñana" ; Times: 1
+	Query: "vntype:specimen genus:STELGIDOPTERYX class:AVES country:&#34;BRAzIL&#34;" ; Times: 1
+	Query: "collocalia natalis" ; Times: 1
+	Query: "Mergus squamatus" ; Times: 17
+	Query: "22061" ; Times: 2
+	Query: "vntype:specimen specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:oenanthe genus:Oenanthe class:aves" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "specificepithet:flammulata genus:Asthenes" ; Times: 1
+	Query: "pagophila" ; Times: 1
+	Query: "genus:gyps indicus" ; Times: 10
+	Query: "collocalia uropygialis" ; Times: 1
+	Query: "calidris tenuirostris" ; Times: 4
+	Query: "vntype:specimen specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "catalognumber:9663 hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1300 download events in this period)
+Total number of records downloaded: 595
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: China ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 2
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-17 ; Times: 3
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "family:apodidae hastissue:1" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "family:Ploceidae preparations:nest" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "vntype:specimen genus:Amblyornis" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "geospiza fortis" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "Stachyris nigriceps" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia" ; Times: 1
+	Query: "Mergus squamatus" ; Times: 1
+	Query: "glaucis hirsutus" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Pezoporus" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aquila heliaca" ; Times: 1
+	Query: "Cinnyris jugularis" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "locality:OH" ; Times: 1
+
+
+End of report.
