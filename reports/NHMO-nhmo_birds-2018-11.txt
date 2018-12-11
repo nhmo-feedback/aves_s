@@ -1,0 +1,271 @@
+Report for Institution Code NHMO, Resource nhmo_birds
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 229
+Number of records retrieved in searches: 2272
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: Italy ; Times: 5
+	Country: Peru ; Times: 39
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 16
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 121
+	Country: China ; Times: 8
+	Country: United Kingdom ; Times: 14
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 31
+	Date: 2018-11-08 ; Times: 24
+	Date: 2018-11-07 ; Times: 15
+	Date: 2018-11-06 ; Times: 7
+	Date: 2018-11-05 ; Times: 19
+	Date: 2018-11-04 ; Times: 6
+	Date: 2018-11-03 ; Times: 4
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-01 ; Times: 3
+	Date: 2018-11-25 ; Times: 8
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-27 ; Times: 10
+	Date: 2018-11-21 ; Times: 6
+	Date: 2018-11-20 ; Times: 20
+	Date: 2018-11-22 ; Times: 3
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 2
+	Date: 2018-11-18 ; Times: 9
+	Date: 2018-11-19 ; Times: 6
+	Date: 2018-11-10 ; Times: 2
+	Date: 2018-11-11 ; Times: 3
+	Date: 2018-11-12 ; Times: 8
+	Date: 2018-11-13 ; Times: 11
+	Date: 2018-11-14 ; Times: 7
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-16 ; Times: 7
+	Date: 2018-11-17 ; Times: 2
+	Date: 2018-11-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rubidiventris genus:periparus" ; Times: 3
+	Query: "catalognumber:40365" ; Times: 1
+	Query: "catalognumber:23628" ; Times: 1
+	Query: "specificepithet:ater genus:manucodia" ; Times: 1
+	Query: "catalognumber:(11234 OR 123532)" ; Times: 1
+	Query: "62637" ; Times: 1
+	Query: "83173 bird" ; Times: 1
+	Query: "vntype:specimen genus:Troglodytes class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "Periparus rubidiventris" ; Times: 3
+	Query: "Cyanistes Caeruleus" ; Times: 2
+	Query: "saxicola maurus hastissue:1" ; Times: 1
+	Query: "specificepithet:skua family:Stercorariidae hastissue:1" ; Times: 1
+	Query: "specificepithet:comrii genus:manucodia" ; Times: 1
+	Query: "ploceus" ; Times: 1
+	Query: "aerodramus fuciphagus inexpectatus" ; Times: 1
+	Query: "45122" ; Times: 2
+	Query: "Androdon aequatorialis" ; Times: 5
+	Query: "28101" ; Times: 1
+	Query: "class:aves catalognumber:2592" ; Times: 1
+	Query: "28904" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 4
+	Query: "27770" ; Times: 1
+	Query: "Aerodramus fuciphagus" ; Times: 3
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 4
+	Query: "Galbalcyrhynchus purusianus" ; Times: 2
+	Query: "Strix leptogrammica" ; Times: 2
+	Query: "vntype:specimen genus:Meiglyptes family:Picidae lifestage:juvenile" ; Times: 2
+	Query: "pycnonotus sinensis" ; Times: 1
+	Query: "emberizidae liver" ; Times: 1
+	Query: "Geokichla citrina rubecula" ; Times: 1
+	Query: "28134" ; Times: 1
+	Query: "vntype:specimen genus:Jynx hastissue:1" ; Times: 1
+	Query: "75408 bird" ; Times: 3
+	Query: "galbalcyrhynchus purusianus" ; Times: 1
+	Query: "specificepithet:major genus:Parus" ; Times: 2
+	Query: "family:pandionidae hastissue:1" ; Times: 1
+	Query: "catalognumber:59266" ; Times: 1
+	Query: "Phoenicurus ochruros hastissue:1" ; Times: 1
+	Query: "Dendrocopos leucotos" ; Times: 4
+	Query: "specificepithet:antarcticus family:Stercorariidae hastissue:1" ; Times: 1
+	Query: "family:falconidae hastissue:1" ; Times: 1
+	Query: "aerodramus fuciphagus vestitus" ; Times: 1
+	Query: "Periparus rubidiventris INDIA" ; Times: 1
+	Query: "Apus nipalensis" ; Times: 3
+	Query: "catalognumber:12480" ; Times: 2
+	Query: "Macropygia emiliana" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 28
+	Query: "Periparus" ; Times: 1
+	Query: "xenopipo atronitens" ; Times: 1
+	Query: "73207" ; Times: 1
+	Query: "Podoces panderi" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 1
+	Query: "poecile missouri" ; Times: 2
+	Query: "Coccycua minuta" ; Times: 1
+	Query: "catalognumber:40082" ; Times: 1
+	Query: "09-257 Malurus" ; Times: 1
+	Query: "Eclectus roratus riedeli" ; Times: 1
+	Query: "saxicola dacotiae hastissue:1" ; Times: 1
+	Query: "aerodramus fuciphagus" ; Times: 3
+	Query: "catalognumber:11112" ; Times: 1
+	Query: "aerodramus fuciphagus fuciphagus" ; Times: 1
+	Query: "specificepithet:chalybatus genus:manucodia" ; Times: 1
+	Query: "specificepithet:apus genus:apus hastissue:1" ; Times: 1
+	Query: "27647" ; Times: 1
+	Query: "vntype:specimen specificepithet:genibarbis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "goura scheepmakeri" ; Times: 3
+	Query: "Fringilla coelebs" ; Times: 1
+	Query: "47251 bird" ; Times: 1
+	Query: "catalognumber:51156 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "90555" ; Times: 1
+	Query: "45657" ; Times: 1
+	Query: "eudyptes moseleyi" ; Times: 1
+	Query: "15795" ; Times: 1
+	Query: "specificepithet:maccormicki family:Stercorariidae hastissue:1" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "Apus apus hastissue:1" ; Times: 1
+	Query: "72752" ; Times: 1
+	Query: "Apus pallidus hastissue:1" ; Times: 1
+	Query: "alopochen" ; Times: 4
+	Query: "44392" ; Times: 1
+	Query: "tachymarptis melba" ; Times: 5
+	Query: "catalognumber:83475" ; Times: 1
+	Query: "41170" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 4
+	Query: "80383" ; Times: 2
+	Query: "23341" ; Times: 1
+	Query: "genus:Prunella" ; Times: 6
+	Query: "Kossoom" ; Times: 1
+	Query: "Dromococcyx phasianellus" ; Times: 1
+	Query: "Surniculus India" ; Times: 1
+	Query: "Primolius maracana" ; Times: 4
+	Query: "emberiza liver" ; Times: 1
+	Query: "catalognumber:2592" ; Times: 1
+	Query: "specificepithet:pagodarum genus:sturnia" ; Times: 1
+	Query: "alcedo atthis" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 1
+	Query: "Prunella tissue" ; Times: 3
+	Query: "Apus pacificus hastissue:1" ; Times: 1
+	Query: "catalognumber:23638" ; Times: 2
+	Query: "75408" ; Times: 1
+	Query: "Mergus squamatus" ; Times: 2
+	Query: "89364" ; Times: 1
+	Query: "Apus unicolor hastissue:1" ; Times: 1
+	Query: "Philentoma pyrhoptera" ; Times: 1
+	Query: "Tachornis squamata" ; Times: 1
+	Query: "catalognumber:86855" ; Times: 1
+	Query: "leucotos" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 7
+	Query: "year &gt;= 2018 year &lt;= 2018" ; Times: 1
+	Query: "Prunella collaris tissue" ; Times: 9
+	Query: "Prunella koslowi tissue" ; Times: 13
+	Query: "specificepithet:citrinella genus:emberiza" ; Times: 1
+	Query: "genus:otis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1719 download events in this period)
+Total number of records downloaded: 4757
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 31
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 6
+	Country: Ecuador ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 3
+	Date: 2018-11-04 ; Times: 1
+	Date: 2018-11-09 ; Times: 4
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-07 ; Times: 5
+	Date: 2018-11-06 ; Times: 3
+	Date: 2018-11-05 ; Times: 8
+	Date: 2018-11-13 ; Times: 5
+	Date: 2018-11-03 ; Times: 5
+	Date: 2018-11-01 ; Times: 4
+	Date: 2018-11-25 ; Times: 5
+	Date: 2018-11-10 ; Times: 2
+	Date: 2018-11-27 ; Times: 5
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-30 ; Times: 1
+	Date: 2018-11-29 ; Times: 2
+	Date: 2018-11-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:falconidae hastissue:1" ; Times: 1
+	Query: "junco hyemalis vntype:specimen" ; Times: 1
+	Query: "Culicicapa ceylonensis country:&#34;India&#34;" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "pycnonotus jocosus country:&#34;India&#34;" ; Times: 1
+	Query: "family:accipitridae hastissue:1" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Prunella tissue" ; Times: 1
+	Query: "family:pandionidae hastissue:1" ; Times: 1
+	Query: "Hemipus picatus" ; Times: 1
+	Query: "genus:Prunella" ; Times: 2
+	Query: "grus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Phoenicurus ochruros hastissue:1" ; Times: 1
+	Query: "Strix leptogrammica" ; Times: 1
+	Query: "Hemipus hirundinaceus" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "saxicola maurus hastissue:1" ; Times: 1
+	Query: "Fringilla coelebs" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "saxicola caprata country:&#34;India&#34;" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "Batis" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "hemipus picatus" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "order:Ciconiiformes hastissue:1" ; Times: 1
+	Query: "Treron curvirostra" ; Times: 1
+	Query: "Androdon aequatorialis" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "setophaga caerulescens" ; Times: 1
+	Query: "Corvus enca" ; Times: 1
+	Query: "eupetomena macroura" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "family:ciconiidae hastissue:1" ; Times: 1
+	Query: "Podoces panderi" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 1
+	Query: "specificepithet:maccormicki family:Stercorariidae hastissue:1" ; Times: 1
+	Query: "poecile missouri" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "Dendrocopos leucotos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "trogon mexicanus mexico" ; Times: 1
+	Query: "specificepithet:antarcticus family:Stercorariidae hastissue:1" ; Times: 1
+	Query: "Malacoptila fusca" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sphenisciformes" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "Lophorina superba" ; Times: 1
+	Query: "Prunella collaris tissue" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "Leiothlypis peregrina" ; Times: 2
+	Query: "saxicola dacotiae hastissue:1" ; Times: 1
+	Query: "Prunella koslowi tissue" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
