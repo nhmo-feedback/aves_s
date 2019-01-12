@@ -1,0 +1,226 @@
+Report for Institution Code NHMO, Resource birds
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 159
+Number of records retrieved in searches: 3867
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 79
+	Country: Netherlands ; Times: 3
+	Country: Iran ; Times: 10
+	Country: Mexico ; Times: 9
+	Country: Denmark ; Times: 2
+	Country: India ; Times: 8
+	Country: France ; Times: 15
+	Country: United Kingdom ; Times: 8
+	Country: Serbia ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 5
+	Date: 2018-12-09 ; Times: 3
+	Date: 2018-12-06 ; Times: 17
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 19
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-16 ; Times: 7
+	Date: 2018-12-11 ; Times: 7
+	Date: 2018-12-10 ; Times: 4
+	Date: 2018-12-13 ; Times: 6
+	Date: 2018-12-12 ; Times: 4
+	Date: 2018-12-20 ; Times: 9
+	Date: 2018-12-21 ; Times: 4
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 2
+	Date: 2018-12-24 ; Times: 4
+	Date: 2018-12-25 ; Times: 2
+	Date: 2018-12-26 ; Times: 3
+	Date: 2018-12-27 ; Times: 6
+	Date: 2018-12-28 ; Times: 10
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-04 ; Times: 12
+	Date: 2018-12-05 ; Times: 6
+	Date: 2018-12-02 ; Times: 10
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-01 ; Times: 1
+	Date: 2018-12-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Strigops" ; Times: 1
+	Query: "Alca torda mappable:1" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 9
+	Query: "seicercus whistleri vntype:specimen" ; Times: 1
+	Query: "vntype:specimen genus:Donacobius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:owenii genus:Apteryx" ; Times: 2
+	Query: "Aleadryas rufinucha" ; Times: 1
+	Query: "Garrulus glandarius" ; Times: 1
+	Query: "Poecile montanus" ; Times: 2
+	Query: "Atlantisia rogersi" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 2
+	Query: "Androdon aequatorialis" ; Times: 2
+	Query: "Calandrella rufescens" ; Times: 2
+	Query: "97312" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "34885" ; Times: 2
+	Query: "aplonis panayensis country:&#34;Indonesia&#34;" ; Times: 3
+	Query: "Larus michahellis mappable:1" ; Times: 1
+	Query: "39747" ; Times: 1
+	Query: "35439" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 1
+	Query: "(poecile montanus)" ; Times: 1
+	Query: "46137" ; Times: 2
+	Query: "Aplonis crassa" ; Times: 2
+	Query: "amazona festiva" ; Times: 1
+	Query: "19477" ; Times: 1
+	Query: "specificepithet:haastii genus:Apteryx" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "Phoenicurus phoenicurus" ; Times: 2
+	Query: "aplonis zelandica" ; Times: 6
+	Query: "Rissa tridactyla mappable:1" ; Times: 1
+	Query: "Aplonis vanuatu" ; Times: 1
+	Query: "Morus bassanus mappable:1" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "Melanitta nigra mappable:1" ; Times: 1
+	Query: "specificepithet:aegyptiaca genus:Alopochen" ; Times: 2
+	Query: "Macropygia emiliana" ; Times: 1
+	Query: "psephotus pulcherrimus" ; Times: 2
+	Query: "Lophorina" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucotos genus:Dendrocopos" ; Times: 2
+	Query: "Garrulax rufifrons" ; Times: 5
+	Query: "Glaucidium griseiceps" ; Times: 1
+	Query: "Claravis geoffroyi" ; Times: 1
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "Cyornis rubeculoides" ; Times: 1
+	Query: "19858" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "Oenanthe finschii" ; Times: 1
+	Query: "passer moabiticus" ; Times: 2
+	Query: "Fratercula arctica mappable:1" ; Times: 1
+	Query: "98592" ; Times: 1
+	Query: "aplonis rufipennis" ; Times: 7
+	Query: "vntype:specimen genus:Polioptila class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "Melanitta fusca mappable:1" ; Times: 1
+	Query: "Alca torda  mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:aegyptiaca genus:Alopochen" ; Times: 3
+	Query: "45407" ; Times: 1
+	Query: "aplonis panayensis country:indonesia" ; Times: 3
+	Query: "Alopochen aegyptiaca" ; Times: 3
+	Query: "Larus marinus mappable:1" ; Times: 1
+	Query: "Aplonis cinerascens" ; Times: 5
+	Query: "Glaucidium passerinum" ; Times: 1
+	Query: "90486" ; Times: 1
+	Query: "Rhipidura rufifrons year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "strix aluco" ; Times: 1
+	Query: "Sylvia borin" ; Times: 5
+	Query: "aves spleen" ; Times: 1
+	Query: "Poecile lugubris" ; Times: 2
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "aplonis crassa" ; Times: 2
+	Query: "95015" ; Times: 1
+	Query: "megalaima asiatica" ; Times: 2
+	Query: "Primolius maracana" ; Times: 1
+	Query: "eggshell" ; Times: 2
+	Query: "Sterna hirundo mappable:1" ; Times: 1
+	Query: "seicercus burkii vntype:specimen country:&#34;India&#34;" ; Times: 3
+	Query: "rupicola peruvianus" ; Times: 2
+	Query: "aegolius funereus" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 8
+	Query: "19926" ; Times: 1
+	Query: "79993" ; Times: 1
+	Query: "Hydrocoloeus minutus" ; Times: 2
+	Query: "Aplonis minor minor" ; Times: 1
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "Larus fuscus mappable:1" ; Times: 1
+	Query: "scientificname:Spheniscus mendiculus " ; Times: 2
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "Prunella collaris tissue" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 809 download events in this period)
+Total number of records downloaded: 4755
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 11
+	Country: Iran ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 14
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-26 ; Times: 3
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 3
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-17 ; Times: 8
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-18 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "papua new guinea" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "specificepithet:poliogaster genus:Caryothraustes" ; Times: 1
+	Query: "Strigops" ; Times: 2
+	Query: "athene cunicularia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "specificepithet:vilissimus genus:zimmerius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "pipreola" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "Glaucidium perlatum" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "glaucidium radiatum" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "Glaucidium griseiceps" ; Times: 1
+	Query: "passer moabiticus" ; Times: 2
+	Query: "Glaucidium passerinum" ; Times: 1
+	Query: "glaucidium cuculoides" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+
+
+End of report.
