@@ -1,0 +1,328 @@
+Report for Institution Code NHMO, Resource birds
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 289
+Number of records retrieved in searches: 7065
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 19
+	Country: Brazil ; Times: 17
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 4
+	Country: Portugal ; Times: 13
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 4
+	Country: United States ; Times: 157
+	Country: Belgium ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 25
+	Country: United Kingdom ; Times: 6
+	Country: Peru ; Times: 7
+	Country: Denmark ; Times: 4
+	Country: Paraguay ; Times: 4
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-23 ; Times: 4
+	Date: 2019-02-11 ; Times: 16
+	Date: 2019-02-10 ; Times: 2
+	Date: 2019-02-13 ; Times: 47
+	Date: 2019-02-12 ; Times: 20
+	Date: 2019-02-15 ; Times: 9
+	Date: 2019-02-14 ; Times: 4
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-26 ; Times: 8
+	Date: 2019-02-01 ; Times: 10
+	Date: 2019-02-20 ; Times: 13
+	Date: 2019-02-07 ; Times: 6
+	Date: 2019-02-04 ; Times: 52
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-08 ; Times: 45
+	Date: 2019-02-09 ; Times: 11
+	Date: 2019-02-28 ; Times: 12
+	Date: 2019-02-02 ; Times: 5
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "25217" ; Times: 1
+	Query: "specificepithet:myadestinus genus:Myadestes" ; Times: 2
+	Query: "Pipile jacutinga" ; Times: 9
+	Query: "30596" ; Times: 1
+	Query: "specificepithet:zelandica genus:aplonis" ; Times: 1
+	Query: "pityriasis" ; Times: 2
+	Query: "Mimus trifasciatus" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 2
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "Coeligena prunellei" ; Times: 2
+	Query: "Coryphaspiza melanotis" ; Times: 2
+	Query: "Neotis family:Otididae" ; Times: 1
+	Query: "genus:Taeniopygia haslifestage:1 hassex:1" ; Times: 1
+	Query: "85469" ; Times: 1
+	Query: "specificepithet:trichroa genus:erythrura class:aves year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Hypocnemis striata" ; Times: 1
+	Query: "Procnias nudicollis" ; Times: 2
+	Query: "Jacamaralcyon tridactyla" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:paroaria" ; Times: 1
+	Query: "specificepithet:alleni genus:Porphyrio" ; Times: 1
+	Query: "Russian Federation" ; Times: 3
+	Query: "35018" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:lophura" ; Times: 1
+	Query: "Turdus leucomelas mappable:1" ; Times: 2
+	Query: "Diomedea dabbenena" ; Times: 2
+	Query: "Asthenes flammulata" ; Times: 1
+	Query: "Pterodroma incerta" ; Times: 2
+	Query: "country:(U.S.S.R. OR USSR OR Russian Federation)" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 2
+	Query: "lullula arborea" ; Times: 4
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "1876 legge" ; Times: 5
+	Query: "Ardea sumatrana" ; Times: 2
+	Query: "class:aves catalognumber:30040" ; Times: 3
+	Query: "Pyrrhura leucotis" ; Times: 1
+	Query: "Trogon viridis mappable:1" ; Times: 2
+	Query: "94324" ; Times: 1
+	Query: "Sephanoides fernandensis" ; Times: 2
+	Query: "specificepithet:zelandica family:sturnidae" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "genus:Chlamydotis" ; Times: 1
+	Query: "country:(Russian Federation OR U.S.S.R)" ; Times: 1
+	Query: "Progne modesta" ; Times: 1
+	Query: "Russland" ; Times: 1
+	Query: "Amazona vinacea" ; Times: 2
+	Query: "specificepithet:fasciatus genus:Campylorhynchus country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "Nothura maculosa" ; Times: 1
+	Query: "58978" ; Times: 1
+	Query: "Pyrilia vulturina" ; Times: 1
+	Query: "Thalassarche chlororhynchos" ; Times: 2
+	Query: "specificepithet:canorus genus:Cuculus" ; Times: 2
+	Query: "country:&#34;Russian Federation&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:darjellensis genus:dendrocopos" ; Times: 1
+	Query: "44998" ; Times: 1
+	Query: "specificepithet:lamberti genus:Malurus hastissue:1" ; Times: 1
+	Query: "Calyptura cristata" ; Times: 1
+	Query: "specificepithet:pacificus genus:apus family:apodidae hastissue:1" ; Times: 1
+	Query: "country:(Russian Federation)" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius" ; Times: 1
+	Query: "Pternistis squamatus" ; Times: 3
+	Query: "Oreophasis derbianus" ; Times: 2
+	Query: "specificepithet:pacificus genus:apus" ; Times: 1
+	Query: "12010" ; Times: 1
+	Query: "genus:Hymenolaimus" ; Times: 1
+	Query: "19576" ; Times: 2
+	Query: "18081" ; Times: 1
+	Query: "Corvus corax canariensis mappable:1" ; Times: 1
+	Query: "Sericossypha albocristata" ; Times: 2
+	Query: "genus:apus family:apodidae hastissue:1" ; Times: 5
+	Query: "Terpsiphone atrocaudata" ; Times: 1
+	Query: "specificepithet:prasina genus:erythrura class:aves" ; Times: 1
+	Query: "specificepithet:unicolor genus:turdus" ; Times: 1
+	Query: "vntype:specimen specificepithet:himalayensis genus:dendrocopos" ; Times: 1
+	Query: "Leptasthenura andicola" ; Times: 1
+	Query: "specificepithet:atricaudus genus:myiobius country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Herpsilochmus pectoralis" ; Times: 1
+	Query: "Pteroglossus aracari mappable:1" ; Times: 2
+	Query: "specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "Touit melanonotus" ; Times: 1
+	Query: "genus:Pseudopodoces" ; Times: 2
+	Query: "catalognumber:73448" ; Times: 1
+	Query: "Oenanthe hastissue:1" ; Times: 3
+	Query: "amazona vittata" ; Times: 1
+	Query: "Buteo galapagoensis" ; Times: 1
+	Query: "country:(Kazakhstan)" ; Times: 1
+	Query: "genus:Fratercula year &gt;= 2004 year &lt;= 2005" ; Times: 1
+	Query: "27799" ; Times: 1
+	Query: "genus:Parus country:&#34;Russian Federation&#34;" ; Times: 1
+	Query: "Kyrgyz Republic" ; Times: 1
+	Query: "genus:Tetrax tetrax" ; Times: 1
+	Query: "Oenanthe lugens hastissue:1" ; Times: 1
+	Query: "Claravis geoffroyi" ; Times: 2
+	Query: "79677" ; Times: 1
+	Query: "russian federation vntype:specimen" ; Times: 1
+	Query: "specificepithet:SELEDON genus:TANGARA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:vermiculatus genus:megascops" ; Times: 7
+	Query: "country:(Kyrgyz Republic)" ; Times: 2
+	Query: "specificepithet:pacificus genus:apus hastissue:1" ; Times: 1
+	Query: "Pseudorectes" ; Times: 2
+	Query: "Aquila fasciata" ; Times: 13
+	Query: "Thalassarche chrysostoma" ; Times: 2
+	Query: "31887" ; Times: 2
+	Query: "Oenanthe xanthoprymna hastissue:1" ; Times: 2
+	Query: "Amazona auropalliata" ; Times: 2
+	Query: "Podiceps taczanowskii" ; Times: 2
+	Query: "Synallaxis rutilans" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "Spheniscus mendiculus" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 2
+	Query: "sturnus unicolor" ; Times: 1
+	Query: "Oenanthe seebohmi hastissue:1" ; Times: 1
+	Query: "specificepithet:gouldiae class:aves year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Cranioleuca vulpecula" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "Geokichla sibirica" ; Times: 1
+	Query: "specificepithet:pavonina genus:balearica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Touit surdus" ; Times: 1
+	Query: "aplonis panayensis indonesia" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "Numenius borealis" ; Times: 2
+	Query: "73020" ; Times: 1
+	Query: "Mimus melanotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:albicollis genus:Turdus class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "genus:CISSOPIS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "30254 class:AVES" ; Times: 1
+	Query: "genus:Poecile country:(Russian Federation)" ; Times: 1
+	Query: "genus:Houbaropsis" ; Times: 1
+	Query: "Synallaxis hypospodia" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanotis genus:mimus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gilvus genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "35018 aves" ; Times: 1
+	Query: "Sturnus unicolor hastissue:1" ; Times: 1
+	Query: "mohoidae" ; Times: 1
+	Query: "tachymarptis" ; Times: 2
+	Query: "russian federation" ; Times: 1
+	Query: "Iodopleura pipra" ; Times: 1
+	Query: "Myrmochanes" ; Times: 1
+	Query: "catalognumber:30040" ; Times: 2
+	Query: "Leptasthenura aegithaloides" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "Procnias tricarunculatus" ; Times: 2
+	Query: "vntype:specimen genus:Eupetes" ; Times: 1
+	Query: "Legge Sri Lanka" ; Times: 1
+	Query: "Pyriglena atra" ; Times: 1
+	Query: "Acanthis cabaret" ; Times: 1
+	Query: "vntype:specimen genus:Pityriasis class:Aves" ; Times: 2
+	Query: "Procellaria conspicillata" ; Times: 2
+	Query: "vntype:specimen specificepithet:SATURNINUS genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pteroglossus bitorquatus" ; Times: 1
+	Query: "94076" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Acrocephalus basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Larvivora cyane" ; Times: 3
+	Query: "genus:erythrura country:&#34;vanuatu&#34;" ; Times: 1
+	Query: "Synallaxis unirufa" ; Times: 1
+	Query: "country:(USSR OR Russian Federation)" ; Times: 2
+	Query: "Pyrocephalus nanus" ; Times: 1
+	Query: "Agamia agami" ; Times: 2
+	Query: "30254" ; Times: 1
+	Query: "genus:MELANERPES country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Neotis" ; Times: 1
+	Query: "Phoebetria fusca" ; Times: 2
+	Query: "vntype:specimen specificepithet:parvulus genus:mimus" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucoscepus genus:pternistis" ; Times: 1
+	Query: "Ramphastos ariel" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:aves country:&#34;brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "Oenanthe leucopyga hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:simplex genus:Pycnonotus country:&#34;indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:barbatus genus:myiobius country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:aurea genus:eupsittula" ; Times: 1
+	Query: "myiobius atricaudus" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "Pyrrhura perlata" ; Times: 2
+	Query: "90935" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "genus:Podoces class:Aves" ; Times: 1
+	Query: "Houbaropsis family:Otididae" ; Times: 2
+	Query: "genus:Parus country:(Russian Federation)" ; Times: 1
+	Query: "Carpornis cucullata" ; Times: 1
+	Query: "Myrmoborus melanurus" ; Times: 2
+	Query: "Buteogallus lacernulatus" ; Times: 1
+	Query: "Penelopina nigra" ; Times: 2
+	Query: "92705" ; Times: 1
+	Query: "genus:otis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1227 download events in this period)
+Total number of records downloaded: 575
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 33
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 6
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-13 ; Times: 19
+	Date: 2019-02-11 ; Times: 15
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-14 ; Times: 2
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "vntype:specimen genus:myzomela basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lathami genus:calyptorhynchus" ; Times: 1
+	Query: "specificepithet:boulboul genus:turdus" ; Times: 1
+	Query: "specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufitorques genus:turdus" ; Times: 1
+	Query: "vntype:specimen specificepithet:darjellensis genus:dendrocopos" ; Times: 1
+	Query: "Sturnus unicolor hastissue:1" ; Times: 1
+	Query: "specificepithet:lamberti genus:Malurus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:madagascariensis genus:foudia" ; Times: 1
+	Query: "calocitta colliei" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "specificepithet:torquatus genus:gallirallus" ; Times: 1
+	Query: "specificepithet:castaneus genus:celeus" ; Times: 1
+	Query: "specificepithet:ignita genus:lophura" ; Times: 1
+	Query: "poecile Missouri" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "vntype:specimen specificepithet:sagittatus genus:oriolus" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:himalayensis genus:dendrocopos" ; Times: 1
+	Query: "vntype:specimen specificepithet:parvulus genus:mimus" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucoscepus genus:pternistis" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavocinctus genus:oriolus" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+	Query: "specificepithet:aurea genus:eupsittula" ; Times: 1
+	Query: "(&#34;toxostoma cinereum&#34;)" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanotis genus:mimus" ; Times: 1
+	Query: "vntype:specimen specificepithet:militaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chlamydotis" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:lophura" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "specificepithet:unicolor genus:turdus" ; Times: 2
+	Query: "rynchops niger" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "specificepithet:flavus genus:celeus" ; Times: 1
+	Query: "genus:Tetrax tetrax" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Campylorhynchus country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:philippensis genus:gallirallus" ; Times: 2
+
+
+End of report.
