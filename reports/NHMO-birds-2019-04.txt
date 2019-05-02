@@ -1,0 +1,364 @@
+Report for Institution Code NHMO, Resource birds
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 291
+Number of records retrieved in searches: 1989
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 57
+	Country: Canada ; Times: 27
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Denmark ; Times: 6
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 94
+	Country: Sweden ; Times: 27
+	Country: Germany ; Times: 11
+	Country: United Kingdom ; Times: 27
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Belgium ; Times: 23
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 19
+	Date: 2019-04-19 ; Times: 25
+	Date: 2019-04-18 ; Times: 32
+	Date: 2019-04-05 ; Times: 17
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 6
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 27
+	Date: 2019-04-16 ; Times: 12
+	Date: 2019-04-15 ; Times: 4
+	Date: 2019-04-30 ; Times: 10
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-01 ; Times: 8
+	Date: 2019-04-02 ; Times: 14
+	Date: 2019-04-03 ; Times: 12
+	Date: 2019-04-06 ; Times: 20
+	Date: 2019-04-22 ; Times: 13
+	Date: 2019-04-23 ; Times: 12
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-21 ; Times: 2
+	Date: 2019-04-26 ; Times: 10
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 8
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 9
+	Date: 2019-04-08 ; Times: 10
+	Date: 2019-04-09 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinerea genus:Ardea hastissue:1" ; Times: 2
+	Query: "47737" ; Times: 1
+	Query: "tetrao urogallus" ; Times: 3
+	Query: "84999" ; Times: 1
+	Query: "specificepithet:vittata genus:amazona" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "class:Aves catalognumber:55141 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas georgica" ; Times: 2
+	Query: "50360" ; Times: 1
+	Query: "catalognumber:454 institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:malayanus genus:Anthracoceros" ; Times: 1
+	Query: "aegithalos concinnus" ; Times: 1
+	Query: "class:Aves catalognumber:64888 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:52573 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:57468 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:decaocto genus:Streptopelia hastissue:1" ; Times: 2
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:24782 institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:12382 institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:38133 institutioncode:NHMO" ; Times: 1
+	Query: "class:Aves catalognumber:70476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "pycnonotus jocosus india" ; Times: 1
+	Query: "catalognumber:11550 institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:12374 institutioncode:NHMO" ; Times: 1
+	Query: "Botaurus pinnatus" ; Times: 2
+	Query: "Pinarochroa sordida" ; Times: 5
+	Query: "terpsiphone atrocaudata" ; Times: 4
+	Query: "class:Aves catalognumber:55107 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pilherodius pileatus" ; Times: 2
+	Query: "catalognumber:81555 institutioncode:NHMO" ; Times: 1
+	Query: "vntype:specimen genus:Psarocolius class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Strix virgata" ; Times: 1
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 2
+	Query: "catalognumber:54751 institutioncode:NHMO" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "class:Aves catalognumber:53920 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "specificepithet:corone orientalis genus:Corvus family:Corvidae order:Passeriformes class:Aves" ; Times: 20
+	Query: "specificepithet:fortipes genus:horornis" ; Times: 1
+	Query: "Spilopelia senegalensis israel" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 2
+	Query: "specificepithet:grus genus:grus" ; Times: 1
+	Query: "vntype:specimen genus:Buphagus" ; Times: 2
+	Query: "Turnagra" ; Times: 1
+	Query: "class:Aves catalognumber:54163 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Urubitinga urubitinga" ; Times: 1
+	Query: "specificepithet:viridis genus:picus country:&#34;spain&#34;" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "Progne modesta" ; Times: 2
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "class:Aves catalognumber:70499 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Syrigma sibilatrix" ; Times: 2
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "class:Aves catalognumber:55154 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Progne modesta institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:4817 institutioncode:NHMO" ; Times: 1
+	Query: "class:Aves catalognumber:54159 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "atlantisia" ; Times: 2
+	Query: "specificepithet:undulatus genus:Rhyticeros" ; Times: 1
+	Query: "specificepithet:decaocto genus:Streptopelia country:&#34;Norway&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:1242 institutioncode:NHMO" ; Times: 1
+	Query: "cuculus poliocephalus india" ; Times: 1
+	Query: "Amazilia lactea basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sylvia borin hastissue:1" ; Times: 1
+	Query: "Phoenicurus ochruros hastissue:1" ; Times: 1
+	Query: "catalognumber:76762 institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:trichroa genus:erythrura class:aves (new guinea) year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "genus:Stercorarius hastissue:1" ; Times: 10
+	Query: "49917" ; Times: 2
+	Query: "catalognumber:4512 institutioncode:NHMO" ; Times: 1
+	Query: "mounted vntype:specimen genus:Buphagus" ; Times: 2
+	Query: "specificepithet:birostris genus:Ocyceros" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "specificepithet:skua genus:STERCORARIUS hastissue:1" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "catalognumber:98460 institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:8711 institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:49850 institutioncode:NHMO" ; Times: 1
+	Query: "Buteogallus aequinoctialis" ; Times: 1
+	Query: "class:Aves catalognumber:53873 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:27733 institutioncode:NHMO" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "dicaeum pectorale" ; Times: 1
+	Query: "vntype:specimen specificepithet:decumanus genus:Psarocolius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "tetrax tetrax" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "vntype:specimen specificepithet:japonicus genus:Buteo OR institutioncode:AMNH" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "sylvia volgensis" ; Times: 1
+	Query: "Theristicus caerulescens" ; Times: 2
+	Query: "catalognumber:126 institutioncode:NHMO" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+	Query: "specificepithet:pacifica genus:Ardea" ; Times: 1
+	Query: "akialoa" ; Times: 4
+	Query: "28459" ; Times: 1
+	Query: "Acrocephalus palustris" ; Times: 3
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 2
+	Query: "specificepithet:garzetta genus:Egretta hastissue:1" ; Times: 2
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "Sylvia borin hastissue:1" ; Times: 1
+	Query: "specificepithet:purpurea genus:Ardea hastissue:1" ; Times: 1
+	Query: "specificepithet:shelleyi genus:scleroptila" ; Times: 1
+	Query: "psittacula krameri" ; Times: 1
+	Query: "75298" ; Times: 1
+	Query: "30033" ; Times: 2
+	Query: "Fratercula arctica vntype:specimen hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:50656 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "claravis geoffroyi" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "catalognumber:13032 institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:19310 institutioncode:NHMO" ; Times: 1
+	Query: "23672" ; Times: 2
+	Query: "specificepithet:magnirostris genus:galerida" ; Times: 1
+	Query: "Aquila fasciata" ; Times: 1
+	Query: "Oenanthe xanthoprymna hastissue:1" ; Times: 2
+	Query: "catalognumber:27872 institutioncode:NHMO" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "catalognumber:59559 institutioncode:NHMO" ; Times: 1
+	Query: "genus:Ardeola hastissue:1" ; Times: 2
+	Query: "catalognumber:8620 institutioncode:NHMO" ; Times: 1
+	Query: "genus:saxicola hastissue:1" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "specificepithet:yeltoniensis genus:melanocorypha" ; Times: 1
+	Query: "catalognumber:11665 institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:luxuosus genus:cyanocorax" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "30274" ; Times: 1
+	Query: "50360 Aves" ; Times: 1
+	Query: "Saxicola hastissue:1" ; Times: 1
+	Query: "catalognumber:50689 institutioncode:NHMO" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "25148" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "class:Aves catalognumber:70498 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "fratercula arctica" ; Times: 1
+	Query: "class:Aves catalognumber:50928 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves preparations:wet" ; Times: 2
+	Query: "cuculus poliocephalus" ; Times: 1
+	Query: "genus:Myiothlypis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:18556 institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:54450 institutioncode:NHMO" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "catalognumber:57996 institutioncode:NHMO" ; Times: 1
+	Query: "class:Aves catalognumber:90266 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macronus javanicus" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "catalognumber:8041 institutioncode:NHMO" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "Manacus manacus mappable:1" ; Times: 2
+	Query: "catalognumber:9511 institutioncode:NHMO" ; Times: 1
+	Query: "plegadis falcinellus vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:minuta genus:Coccycua" ; Times: 1
+	Query: "catalognumber:39836 institutioncode:NHMO" ; Times: 1
+	Query: "class:Aves catalognumber:53922 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cyornis ruficauda" ; Times: 1
+	Query: "catalognumber:2041 institutioncode:NHMO" ; Times: 1
+	Query: "Syrrhaptes paradoxus year &gt; 1985" ; Times: 1
+	Query: "ardeola ralloides" ; Times: 1
+	Query: "dicaeum geelvinkianum" ; Times: 1
+	Query: "buceros bicornis" ; Times: 1
+	Query: "93566" ; Times: 1
+	Query: "catalognumber:42713 institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:mongolica genus:melanocorypha" ; Times: 1
+	Query: "catalognumber:12923 institutioncode:NHMO" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "specificepithet:aurocapilla genus:Seiurus month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 3
+	Query: "specificepithet:levaillantii genus:scleroptila" ; Times: 1
+	Query: "catalognumber:48232 institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "genus:electron year &gt;= 1985" ; Times: 1
+	Query: "vntype:specimen genus:electron year &gt;= 1985" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "Myiarchus sagrae 1886" ; Times: 1
+	Query: "specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "class:Aves catalognumber:53803 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Aves catalognumber:70496 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fluvicola genus:petrochelidon" ; Times: 1
+	Query: "specificepithet:gingalensis genus:Ocyceros" ; Times: 1
+	Query: "specificepithet:antarcticus genus:STERCORARIUS hastissue:1" ; Times: 3
+	Query: "class:Aves catalognumber:54132 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Basileuterus class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "80729" ; Times: 3
+	Query: "houbaropsis bengalensis" ; Times: 1
+	Query: "Leptotila verreauxi mappable:1" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "catalognumber:83510 institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:10741 institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:decaocto genus:Streptopelia country:&#34;Spain&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:trifasciatus genus:Mimus" ; Times: 2
+	Query: "Ramphotrigon" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "specificepithet:linchi" ; Times: 1
+	Query: "catalognumber:8992 institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:75524 institutioncode:NHMO" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1263 download events in this period)
+Total number of records downloaded: 610
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 37
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 8
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-23 ; Times: 14
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 23
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fortipes genus:horornis" ; Times: 1
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:bengalensis genus:Centropus" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "specificepithet:vittata genus:amazona" ; Times: 1
+	Query: "specificepithet:undulatus genus:Rhyticeros" ; Times: 1
+	Query: "specificepithet:bimaculata genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:malayanus genus:Anthracoceros" ; Times: 1
+	Query: "specificepithet:delphinae genus:colibri" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "specificepithet:nigra genus:coracopsis" ; Times: 1
+	Query: "Phoenicurus ochruros hastissue:1" ; Times: 1
+	Query: "specificepithet:nigricans genus:petrochelidon" ; Times: 1
+	Query: "specificepithet:thalassinus genus:colibri" ; Times: 1
+	Query: "amazilia fimbriata" ; Times: 1
+	Query: "specificepithet:sanguinea genus:cacatua" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "genus:collocalia" ; Times: 1
+	Query: "genus:saxicola hastissue:1" ; Times: 1
+	Query: "specificepithet:fusca genus:malacoptila" ; Times: 1
+	Query: "specificepithet:birostris genus:Ocyceros" ; Times: 1
+	Query: "specificepithet:yeltoniensis genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:coruscans genus:colibri" ; Times: 1
+	Query: "specificepithet:luxuosus genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 1
+	Query: "specificepithet:mongolica genus:melanocorypha" ; Times: 1
+	Query: "specificepithet:calandra genus:melanocorypha" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "specificepithet:personatus genus:agapornis" ; Times: 1
+	Query: "specificepithet:leucocephala genus:amazona" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+	Query: "specificepithet:satyra genus:Tragopan" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua" ; Times: 1
+	Query: "specificepithet:merulinus" ; Times: 1
+	Query: "specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "specificepithet:jardini genus:Boissonneaua" ; Times: 1
+	Query: "specificepithet:grus genus:grus" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "Rhea pennata" ; Times: 1
+	Query: "akialoa" ; Times: 1
+	Query: "specificepithet:minuta genus:Coccycua" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "specificepithet:viridis genus:picus country:&#34;spain&#34;" ; Times: 1
+	Query: "specificepithet:fluvicola genus:petrochelidon" ; Times: 1
+	Query: "Progne modesta" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:linchi" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "(perisoreus) hastissue:1" ; Times: 1
+	Query: "specificepithet:magnirostris genus:galerida" ; Times: 1
+
+
+End of report.
