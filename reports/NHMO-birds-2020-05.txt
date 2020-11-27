@@ -1,0 +1,240 @@
+Report for Institution Code NHMO, Resource birds
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 157
+Number of records retrieved in searches: 795
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 6
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Ireland ; Times: 11
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 106
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 6
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-20 ; Times: 14
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-28 ; Times: 5
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-10 ; Times: 8
+	Date: 2020-05-11 ; Times: 4
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 11
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 19
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-31 ; Times: 6
+	Date: 2020-05-08 ; Times: 8
+	Date: 2020-05-07 ; Times: 31
+	Date: 2020-05-06 ; Times: 9
+	Date: 2020-05-05 ; Times: 2
+	Date: 2020-05-04 ; Times: 8
+	Date: 2020-05-03 ; Times: 6
+	Date: 2020-05-02 ; Times: 4
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "64668" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "Eulampis holosericeus" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "class:Aves catalognumber:B 24322" ; Times: 1
+	Query: "Syma torotoro" ; Times: 2
+	Query: "46562" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 2
+	Query: "67565" ; Times: 1
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "vntype:specimen specificepithet:cayana genus:Dacnis class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "79489" ; Times: 2
+	Query: "myrmoborus myotherinus" ; Times: 1
+	Query: "vntype:specimen class:Aves continent:Antarctica year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "catalognumber:97386 year &gt;= 2002" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "97386" ; Times: 1
+	Query: "Cochoa" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "45761" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "buteo galapagoensis" ; Times: 3
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "genus:chelidoptera country:&#34;Brazil&#34;" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "country:&#34;Russian Federation&#34;" ; Times: 3
+	Query: "33797" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:lobatus genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "vntype:specimen specificepithet:purpurea genus:cochoa country:&#34;India&#34;" ; Times: 1
+	Query: "Todiramphus nigrocyaneus" ; Times: 1
+	Query: "charadrius placidus" ; Times: 2
+	Query: "43990" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "48626" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:bahamensis genus:Anas family:Anatidae country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Charadrius leschenaultii india" ; Times: 1
+	Query: "vntype:specimen class:Aves continent:Antarctica year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "oenanthe xanthoprymna" ; Times: 1
+	Query: "Todiramphus Aru" ; Times: 1
+	Query: "93857" ; Times: 1
+	Query: "specificepithet:morphoeus genus:Monasa country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Halcyon OR Todiramphus Mangaia" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "36803" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas sex:female" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 2
+	Query: "64748" ; Times: 1
+	Query: "Halcyon OR Todiramphus Tahiti" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "Phylloscopidae" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "charadrius obscurus" ; Times: 4
+	Query: "specificepithet:leucotis genus:Pyrrhura country:&#34;Brazil&#34;" ; Times: 2
+	Query: "96451" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "Pterocles orientalis India" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:juvenile sex:female" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "Charadrius mongolus india" ; Times: 2
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "Charadrius sanctaehelenae" ; Times: 8
+	Query: "73832" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricollis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:male" ; Times: 2
+	Query: "38185" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:juvenile sex:female" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 5
+	Query: "39437 bird" ; Times: 1
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:juvenile sex:male" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "Thalassarche chlororhynchos" ; Times: 2
+	Query: "37765" ; Times: 1
+	Query: "80301" ; Times: 1
+	Query: "vntype:specimen specificepithet:plumbea genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1106 download events in this period)
+Total number of records downloaded: 65381
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 14
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-14 ; Times: 3
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:purpurea genus:cochoa country:&#34;India&#34;" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "automolus leucophthalmus" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "Mecocerculus leucophrys" ; Times: 1
+
+
+End of report.
