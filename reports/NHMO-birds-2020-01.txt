@@ -1,0 +1,224 @@
+Report for Institution Code NHMO, Resource birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 180
+Number of records retrieved in searches: 2180
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 133
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Unknown ; Times: 7
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 50
+	Date: 2020-01-09 ; Times: 21
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 6
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-20 ; Times: 7
+	Date: 2020-01-23 ; Times: 5
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 16
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-29 ; Times: 6
+	Date: 2020-01-28 ; Times: 15
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 9
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-16 ; Times: 5
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-10 ; Times: 7
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-31 ; Times: 5
+	Date: 2020-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "25179" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyane class:Aves hastissue:1" ; Times: 1
+	Query: "Melanitta fusca hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficapilla genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "73465" ; Times: 1
+	Query: "73464" ; Times: 1
+	Query: "canadensis 1876" ; Times: 1
+	Query: "Psittacara leucophthalmus" ; Times: 7
+	Query: "specificepithet:carolinensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "streptopelia turtur" ; Times: 3
+	Query: "39813" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "Burhinus senegalensis" ; Times: 3
+	Query: "No. O.58135" ; Times: 1
+	Query: "Seicercus whistleri vntype:specimen" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "Phylloscopus tytleri" ; Times: 1
+	Query: "Botaurus pinnatus" ; Times: 2
+	Query: "33744" ; Times: 1
+	Query: "domesticus Passer" ; Times: 1
+	Query: "98368" ; Times: 1
+	Query: "apteryx" ; Times: 1
+	Query: "specificepithet:tridactylus genus:Picoides hastissue:1" ; Times: 2
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "Aquila fasciata" ; Times: 1
+	Query: "skin-66297" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavicollis genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sibirica class:Aves hastissue:1" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyane genus:Larvivora class:Aves hastissue:1" ; Times: 1
+	Query: "eupsittula pertinax" ; Times: 1
+	Query: "vntype:specimen genus:Prinia class:Aves hastissue:1" ; Times: 2
+	Query: "specificepithet:serrirostris" ; Times: 1
+	Query: "Sinosuthora webbiana" ; Times: 1
+	Query: "akialoa" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 4
+	Query: "genus:Dendrocopos hastissue:1" ; Times: 11
+	Query: "62875" ; Times: 1
+	Query: "41501" ; Times: 1
+	Query: "catalognumber:97853" ; Times: 1
+	Query: "27833 aves" ; Times: 1
+	Query: "jocosus Pycnonotus" ; Times: 2
+	Query: "O.58135" ; Times: 1
+	Query: "specificepithet:virens class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "O.72269" ; Times: 1
+	Query: "grus rubicunda" ; Times: 1
+	Query: "35114" ; Times: 2
+	Query: "Pterodroma caribbaea" ; Times: 20
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "catalognumber:35575" ; Times: 1
+	Query: "Sarkidiornis" ; Times: 1
+	Query: "piaya cayana year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:Garrulus hastissue:1" ; Times: 13
+	Query: "uria lomvia greenland" ; Times: 1
+	Query: "62878" ; Times: 1
+	Query: "laniarius" ; Times: 1
+	Query: "specificepithet:atrocaudata genus:Terpsiphone" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "specificepithet:olivaceus class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 6
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "Oceanites oceanicus antarctica" ; Times: 1
+	Query: "class:Aves country:&#34;israel&#34;" ; Times: 2
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "specificepithet:nivalis genus:Montifringilla hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:bifasciatus genus:psarocolius" ; Times: 2
+	Query: "genus:Vanellus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Larus michahellis" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "haematopus leucopodus" ; Times: 1
+	Query: "85834" ; Times: 1
+	Query: "34814" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "vntype:specimen genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "34953" ; Times: 1
+	Query: "39597" ; Times: 2
+	Query: "52543" ; Times: 1
+	Query: "vntype:specimen specificepithet:guira genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves catalognumber:11263" ; Times: 1
+	Query: "87894" ; Times: 1
+	Query: "Merops persicus" ; Times: 3
+	Query: "97174" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1584 download events in this period)
+Total number of records downloaded: 947
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 6
+	Country: United States ; Times: 25
+	Country: Germany ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-28 ; Times: 8
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-27 ; Times: 3
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-31 ; Times: 4
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "Seicercus vntype:specimen (whistleri OR burkii)" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "eulampis jugularis" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "&#34;Charadrius placidus&#34; vntype:specimen" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "eupsittula pertinax" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Ciconia episcopus" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 2001 year &lt;= 2010 hastissue:1" ; Times: 1
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "&#34;Sturnus vulgaris&#34;" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "specificepithet:capensis genus:Emberiza family:Emberizidae class:Aves continent:Africa" ; Times: 2
+	Query: "genus:Cursorius family:Glareolidae class:Aves continent:Africa" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year =2006 hastissue:1" ; Times: 1
+	Query: "genus:Dendrocopos hastissue:1" ; Times: 1
+	Query: "aves hastissue:1 country:mexico" ; Times: 1
+	Query: "class:Aves country:Mexico" ; Times: 1
+	Query: "touit" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "pucrasia macrolopha" ; Times: 2
+
+
+End of report.
