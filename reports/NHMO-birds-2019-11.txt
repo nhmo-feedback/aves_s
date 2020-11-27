@@ -1,0 +1,273 @@
+Report for Institution Code NHMO, Resource birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 247
+Number of records retrieved in searches: 1801
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Turkey ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 15
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 3
+	Country: Cyprus ; Times: 10
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: Paraguay ; Times: 4
+	Country: Sweden ; Times: 10
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Brazil ; Times: 21
+	Country: United States ; Times: 148
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 6
+	Date: 2019-11-18 ; Times: 10
+	Date: 2019-11-15 ; Times: 29
+	Date: 2019-11-14 ; Times: 21
+	Date: 2019-11-17 ; Times: 1
+	Date: 2019-11-16 ; Times: 9
+	Date: 2019-11-11 ; Times: 7
+	Date: 2019-11-13 ; Times: 4
+	Date: 2019-11-12 ; Times: 4
+	Date: 2019-11-08 ; Times: 15
+	Date: 2019-11-09 ; Times: 6
+	Date: 2019-11-20 ; Times: 22
+	Date: 2019-11-21 ; Times: 8
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-23 ; Times: 3
+	Date: 2019-11-25 ; Times: 3
+	Date: 2019-11-26 ; Times: 20
+	Date: 2019-11-27 ; Times: 4
+	Date: 2019-11-06 ; Times: 15
+	Date: 2019-11-07 ; Times: 18
+	Date: 2019-11-04 ; Times: 18
+	Date: 2019-11-05 ; Times: 14
+	Date: 2019-11-01 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "54056" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "drepanornis" ; Times: 1
+	Query: "Cyornis banyumas" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "specificepithet:carolinensis class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "haematopus unicolor" ; Times: 1
+	Query: "specificepithet:seledon family:Thraupidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "specificepithet:ruficapilla class:aves country:&#34;canada&#34; year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "67280" ; Times: 1
+	Query: "specificepithet:nubicus genus:Lanius hastissue:1" ; Times: 1
+	Query: "specificepithet:ruficapilla class:aves country:&#34;canada&#34; hastissue:1" ; Times: 1
+	Query: "95833" ; Times: 1
+	Query: "vntype:specimen specificepithet:ornata genus:thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "Phylloscopus tytleri india" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "specificepithet:mystacea genus:Sylvia hastissue:1" ; Times: 3
+	Query: "Pycnonotus xanthopygos" ; Times: 2
+	Query: "vntype:specimen specificepithet:cyanoptera genus:thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:episcopus class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:Ontario year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoptera genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Charadrius melodus 2017" ; Times: 4
+	Query: "45295" ; Times: 1
+	Query: "indonesia guttula" ; Times: 2
+	Query: "vntype:specimen specificepithet:ornata genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "specificepithet:seledon genus:Tangara country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "54466" ; Times: 1
+	Query: "55422" ; Times: 1
+	Query: "genus:Passer country:&#34;China&#34;" ; Times: 1
+	Query: "specificepithet:ardosiaceus genus:Falco" ; Times: 1
+	Query: "montifringilla nivalis" ; Times: 2
+	Query: "54548" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "vntype:specimen specificepithet:palmarum genus:Thraupis class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "parus major" ; Times: 7
+	Query: "64191" ; Times: 1
+	Query: "Coturnix coromandelica" ; Times: 1
+	Query: "86545" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:Ontario year&gt;=2000 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "India bird class:aves country:&#34;India&#34; preparations:Skin institutioncode:NHMO basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "86668" ; Times: 1
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "aerodramus fuciphagus" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "specificepithet:newtoni genus:Falco" ; Times: 1
+	Query: "Sylvia mystacea" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "95836" ; Times: 1
+	Query: "Gymnomyza aubryana" ; Times: 8
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "specificepithet:carolinensis class:aves stateprovince:Ontario year&gt;=2000 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "Lerwa lerwa" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "NHMO Vireo gilvus" ; Times: 1
+	Query: "Accipiter gularis" ; Times: 2
+	Query: "aerodramus francicus" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "Corvus cornix cornix" ; Times: 1
+	Query: "61132" ; Times: 1
+	Query: "Eolophus roseicapilla" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "Hippolais icterina" ; Times: 1
+	Query: "10918" ; Times: 2
+	Query: "Oreomystis bairdi" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "class:Aves country:&#34;Turkey&#34; hastissue:1" ; Times: 1
+	Query: "86599" ; Times: 1
+	Query: "Coccyzus americanus 2007" ; Times: 4
+	Query: "Lyncornis temminckii" ; Times: 4
+	Query: "hippolais icterina" ; Times: 3
+	Query: "80642" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "genus:cyanolanius" ; Times: 1
+	Query: "97825" ; Times: 1
+	Query: "specificepithet:montanus continent:Europe" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "order:Passeriformes country:&#34;Turkey&#34; hastissue:1" ; Times: 1
+	Query: "pycnonotus xanthopygos" ; Times: 1
+	Query: "class:aves catalognumber:12069" ; Times: 1
+	Query: "Coccyzus americanus 2018" ; Times: 8
+	Query: "Coccyzus americanus 2019" ; Times: 8
+	Query: "53464" ; Times: 2
+	Query: "52292" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "NHMO" ; Times: 3
+	Query: "catalognumber:79277 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Coccyzus americanus 2005" ; Times: 4
+	Query: "vntype:specimen specificepithet:loricata class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "16053" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 4
+	Query: "35568" ; Times: 1
+	Query: "specificepithet:cenchroides genus:Falco" ; Times: 4
+	Query: "vntype:specimen specificepithet:cayana genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Aquila chrysaetos year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "93361" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "specificepithet:ruppeli genus:Sylvia hastissue:1" ; Times: 2
+	Query: "catalognumber:79277 year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "86613" ; Times: 1
+	Query: "86593" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "86614" ; Times: 1
+	Query: "class:aves catalognumber:12072" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 3
+	Query: "class:aves catalognumber:12070" ; Times: 2
+	Query: "53626" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "oceanites gracilis galapagos" ; Times: 3
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "Charadrius melodus 2019" ; Times: 4
+	Query: "Charadrius melodus 2018" ; Times: 4
+	Query: "turdoides squamiceps" ; Times: 2
+	Query: "specificepithet:rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:compsothraupis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "54464" ; Times: 1
+	Query: "catalognumber:97652" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "vntype:specimen genus:Nemosia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "NHMO-BC37" ; Times: 1
+	Query: "genus:cissopis country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "genus:Sylvia class:Aves country:&#34;Turkey&#34;" ; Times: 1
+	Query: "Eleoscytalopus indigoticus" ; Times: 2
+	Query: "Pinguinus" ; Times: 1
+	Query: "Eulacestoma nigropectus year &gt; 1990" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1367 download events in this period)
+Total number of records downloaded: 1644
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 22
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Cyprus ; Times: 3
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-06 ; Times: 16
+	Date: 2019-11-07 ; Times: 2
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-29 ; Times: 2
+	Date: 2019-11-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vini" ; Times: 1
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 4
+	Query: "vntype:specimen locality:Spitzbergen" ; Times: 1
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "specificepithet:falcatus genus:Campylopterus" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 2
+	Query: "Lerwa lerwa" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:accipiter basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "order:Apodiformes" ; Times: 2
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "specificepithet:ruppeli genus:Sylvia hastissue:1" ; Times: 1
+	Query: "specificepithet:nubicus genus:Lanius hastissue:1" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "order:Caprimulgiformes" ; Times: 1
+	Query: "specificepithet:rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "specificepithet:mystacea genus:Sylvia hastissue:1" ; Times: 1
+	Query: "India bird class:aves country:&#34;India&#34; preparations:Skin institutioncode:NHMO basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Africa" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 2
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Accipitriformes" ; Times: 2
+
+
+End of report.
