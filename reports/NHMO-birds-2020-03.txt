@@ -1,0 +1,286 @@
+Report for Institution Code NHMO, Resource birds
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 255
+Number of records retrieved in searches: 1394
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 4
+	Country: Unknown ; Times: 8
+	Country: Poland ; Times: 1
+	Country: India ; Times: 11
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 27
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 3
+	Country: Switzerland ; Times: 2
+	Country: Thailand ; Times: 12
+	Country: Argentina ; Times: 3
+	Country: United States ; Times: 150
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 24
+	Date: 2020-03-30 ; Times: 11
+	Date: 2020-03-31 ; Times: 17
+	Date: 2020-03-02 ; Times: 6
+	Date: 2020-03-18 ; Times: 10
+	Date: 2020-03-19 ; Times: 5
+	Date: 2020-03-09 ; Times: 7
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 11
+	Date: 2020-03-08 ; Times: 7
+	Date: 2020-03-17 ; Times: 3
+	Date: 2020-03-06 ; Times: 21
+	Date: 2020-03-27 ; Times: 8
+	Date: 2020-03-26 ; Times: 4
+	Date: 2020-03-25 ; Times: 30
+	Date: 2020-03-24 ; Times: 8
+	Date: 2020-03-23 ; Times: 9
+	Date: 2020-03-22 ; Times: 7
+	Date: 2020-03-21 ; Times: 3
+	Date: 2020-03-20 ; Times: 7
+	Date: 2020-03-05 ; Times: 15
+	Date: 2020-03-04 ; Times: 8
+	Date: 2020-03-07 ; Times: 5
+	Date: 2020-03-11 ; Times: 8
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-29 ; Times: 3
+	Date: 2020-03-28 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "copsychus malabaricus india" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "ara chloropterus" ; Times: 2
+	Query: "47738" ; Times: 1
+	Query: "(84514)" ; Times: 1
+	Query: "vntype:specimen specificepithet:carbo genus:Ramphocelus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "specificepithet:leucopsis genus:sitta" ; Times: 1
+	Query: "harpactes fasciatus" ; Times: 1
+	Query: "diomedea exulans south georgia" ; Times: 2
+	Query: "(11044)" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 16
+	Query: "97922" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "82768" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "genus:Pinguinus" ; Times: 1
+	Query: "Pelecanus philippensis country:&#34;China&#34;" ; Times: 1
+	Query: "poicephalus robustus" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "Ceratogymna atrata AND (&#34;skin&#34;)" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "98369" ; Times: 2
+	Query: "43878" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "96091" ; Times: 2
+	Query: "60756" ; Times: 1
+	Query: "eremita" ; Times: 3
+	Query: "60753" ; Times: 1
+	Query: "motacilla citreola india" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "specificepithet:petechia country:&#34;Mexico&#34; year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "60759" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "pitta brachyura" ; Times: 1
+	Query: "Glareola maldivarum" ; Times: 1
+	Query: "76842" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "egretta gularis" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronatus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pelecanus country:&#34;China&#34;" ; Times: 1
+	Query: "R.57365" ; Times: 1
+	Query: "83012" ; Times: 1
+	Query: "vntype:specimen genus:buphagus" ; Times: 1
+	Query: "76847" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "(setophaga petechia) hastissue:1" ; Times: 2
+	Query: "specificepithet:sapphirina genus:Hylocharis" ; Times: 1
+	Query: "puffinus africa" ; Times: 4
+	Query: "tytleri" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "pyrilia vulturina" ; Times: 3
+	Query: "52022" ; Times: 1
+	Query: "gyps indicus" ; Times: 1
+	Query: "specificepithet:cannabina genus:Linaria class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:63127" ; Times: 1
+	Query: "catalognumber:63126" ; Times: 1
+	Query: "catalognumber:63124" ; Times: 1
+	Query: "76294" ; Times: 1
+	Query: "melanitta stejnegeri" ; Times: 6
+	Query: "50807" ; Times: 1
+	Query: "pelecanus philippensis" ; Times: 3
+	Query: "specificepithet:petechia country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "parus major" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "93597" ; Times: 1
+	Query: "B-10458" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 2
+	Query: "Suthora nipalensis" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "58767" ; Times: 1
+	Query: "Todiramphus nigrocyaneus" ; Times: 2
+	Query: "specificepithet:leucopsis genus:sitta year &gt;= 1960" ; Times: 1
+	Query: "70672" ; Times: 1
+	Query: "21297" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "22251" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "buteo lagopus menzbieri" ; Times: 2
+	Query: "(55759)" ; Times: 1
+	Query: "perdix class:aves year &gt;= 1908 year &lt;= 1911" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "87085" ; Times: 1
+	Query: "specificepithet:sphenocercus genus:Lanius" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "(49083)" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "galloperdix lunulata" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "(81591)" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "impennis" ; Times: 1
+	Query: "coeligena prunellei" ; Times: 2
+	Query: "Petrochelidon fluvicola" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "(62898)" ; Times: 2
+	Query: "diomedea crozet" ; Times: 1
+	Query: "71223" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "vntype:specimen specificepithet:bresilius genus:Ramphocelus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "institutioncode:NHMO" ; Times: 1
+	Query: "oceanodroma monorhis hastissue:1" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "R.39075" ; Times: 1
+	Query: "catalognumber:98646" ; Times: 1
+	Query: "genus:alauda country:&#34;japan&#34;" ; Times: 4
+	Query: "Cuculus canorus" ; Times: 6
+	Query: "71221" ; Times: 1
+	Query: "specificepithet:philippensis genus:Pelecanus country:&#34;china&#34;" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "nesospiza acunhae" ; Times: 1
+	Query: "37094" ; Times: 1
+	Query: "67524" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "Cettia castaneocoronata" ; Times: 1
+	Query: "(77094)" ; Times: 1
+	Query: "columba elphinstonii" ; Times: 2
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "Dicrurus ludwigii" ; Times: 2
+	Query: "66066" ; Times: 1
+	Query: "(76777)" ; Times: 2
+	Query: "90583" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "Wallichii" ; Times: 1
+	Query: "diomedea exulans crozet" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "98368" ; Times: 2
+	Query: "zoothera dauma" ; Times: 1
+	Query: "79922" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 3
+	Query: "38031" ; Times: 1
+	Query: "13715" ; Times: 1
+	Query: "79924" ; Times: 1
+	Query: "wallichii" ; Times: 1
+	Query: "12212" ; Times: 1
+	Query: "66359" ; Times: 1
+	Query: "70888" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "procellariiformes vanuatu" ; Times: 1
+	Query: "oceanodroma monorhis year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "Acrocephalus stentoreus" ; Times: 6
+	Query: "(14976)" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 2
+	Query: "nesospiza dunnei" ; Times: 2
+	Query: "vntype:specimen specificepithet:carbo genus:Ramphocelus class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "Delichon urbicum" ; Times: 6
+	Query: "(49096)" ; Times: 2
+	Query: "77071" ; Times: 1
+	Query: "57155" ; Times: 1
+	Query: "B-10365" ; Times: 1
+	Query: "Rena" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "oceanodroma monorhis" ; Times: 3
+	Query: "Mycerobas melanozanthos" ; Times: 1
+	Query: "trochalopteron variegatum" ; Times: 7
+	Query: "67214" ; Times: 1
+	Query: "oriolus kundoo" ; Times: 2
+	Query: "diomedea hastissue:1" ; Times: 1
+	Query: "30908 class:aves" ; Times: 1
+	Query: "streptopelia orientalis india" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 853 download events in this period)
+Total number of records downloaded: 666
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 10
+	Country: Peru ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-05 ; Times: 3
+	Date: 2020-03-23 ; Times: 2
+	Date: 2020-03-14 ; Times: 1
+	Date: 2020-03-11 ; Times: 4
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "Icterus gularis" ; Times: 1
+	Query: "pyrilia vulturina" ; Times: 2
+	Query: "specificepithet:ludwigii genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2005 year &lt;= 2010" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "genus:Passerina year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 1
+	Query: "colaptes chrysoides" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;Japan&#34;" ; Times: 1
+	Query: "procellariiformes hastissue:1" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "egretta gularis" ; Times: 1
+	Query: "Amazilia cyanura" ; Times: 1
+
+
+End of report.
