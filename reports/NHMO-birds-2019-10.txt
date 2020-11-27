@@ -1,0 +1,322 @@
+Report for Institution Code NHMO, Resource birds
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 262
+Number of records retrieved in searches: 3938
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 52
+	Country: Canada ; Times: 1
+	Country: Bangladesh ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: Hong Kong ; Times: 2
+	Country: Denmark ; Times: 7
+	Country: Turkey ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Japan ; Times: 4
+	Country: United Kingdom ; Times: 6
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 4
+	Country: Unknown ; Times: 11
+	Country: Belgium ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 146
+	Country: Thailand ; Times: 1
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 6
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 13
+	Date: 2019-10-20 ; Times: 5
+	Date: 2019-10-27 ; Times: 3
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-22 ; Times: 14
+	Date: 2019-10-01 ; Times: 3
+	Date: 2019-10-03 ; Times: 5
+	Date: 2019-10-02 ; Times: 8
+	Date: 2019-10-04 ; Times: 6
+	Date: 2019-10-07 ; Times: 9
+	Date: 2019-10-06 ; Times: 5
+	Date: 2019-10-23 ; Times: 8
+	Date: 2019-10-24 ; Times: 15
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 6
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-12 ; Times: 6
+	Date: 2019-10-13 ; Times: 6
+	Date: 2019-10-10 ; Times: 12
+	Date: 2019-10-11 ; Times: 9
+	Date: 2019-10-16 ; Times: 10
+	Date: 2019-10-31 ; Times: 20
+	Date: 2019-10-14 ; Times: 5
+	Date: 2019-10-17 ; Times: 25
+	Date: 2019-10-15 ; Times: 21
+	Date: 2019-10-28 ; Times: 9
+	Date: 2019-10-30 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "Phoenicurus coeruleocephala vntype:specimen" ; Times: 1
+	Query: "rhea pennata" ; Times: 1
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "netherlands athene" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "pycnonotus jocosus india" ; Times: 1
+	Query: "githagineus Bucanetes" ; Times: 2
+	Query: "93814" ; Times: 2
+	Query: "Cinnyris osea year &gt; 2000" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "vntype:specimen Saxicola sibilla" ; Times: 1
+	Query: "Passer ammodendri" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "Ardea herodias AND Cruz" ; Times: 1
+	Query: "vntype:specimen specificepithet:VELIA genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Centropus senegalensis" ; Times: 1
+	Query: "class:aves country:&#34;india&#34; Coturnix coturnix" ; Times: 2
+	Query: "71340" ; Times: 1
+	Query: "specificepithet:coronata genus:setophaga country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "vntype:specimen specificepithet:desmaresti genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pitiayumi inornata vntype:specimen" ; Times: 2
+	Query: "11188" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "vntype:specimen genus:Stephanophorus class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "Carpodacus sibiricus" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "Stercorariidae continent:Europe" ; Times: 3
+	Query: "54212" ; Times: 1
+	Query: "Charadrius melodus 2017" ; Times: 1
+	Query: "heliothryx auritus" ; Times: 2
+	Query: "96152" ; Times: 2
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "family:Alcedinidae locality:Long" ; Times: 1
+	Query: "vntype:specimen specificepithet:DOMINICANA genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "50567" ; Times: 1
+	Query: "Cyornis glaucicomans vntype:specimen" ; Times: 2
+	Query: "Stercorariidae continent:Oceania" ; Times: 6
+	Query: "pusilla Cardellina" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "32887" ; Times: 1
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "69978" ; Times: 1
+	Query: "71480" ; Times: 1
+	Query: "Pinarochroa sordida vntype:specimen" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "vntype:specimen Cercotrichas podobe" ; Times: 1
+	Query: "genus:empidonax country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Agropsar sturninus" ; Times: 1
+	Query: "Phoenicurus moussieri vntype:specimen" ; Times: 1
+	Query: "68252" ; Times: 1
+	Query: "Saxicola tectes vntype:specimen" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Nestor" ; Times: 1
+	Query: "trogon ramonianus" ; Times: 2
+	Query: "genus:certhia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Cinclidium frontale vntype:specimen" ; Times: 1
+	Query: "40047" ; Times: 1
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "vntype:specimen specificepithet:seledon genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "64055" ; Times: 1
+	Query: "Hemispingus superciliaris vntype:specimen" ; Times: 1
+	Query: "Saxicola dacotiae vntype:specimen" ; Times: 1
+	Query: "specificepithet:philadelphia genus:geothlypis country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Nebraska&#34; country:&#34;United States of America&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:ruficapillus genus:Schistochlamys class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Stercorariidae continent:South America" ; Times: 8
+	Query: "Cercotrichas signata vntype:specimen" ; Times: 1
+	Query: "Urocissa flavirostris" ; Times: 1
+	Query: "vntype:specimen genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "class:aves country:&#34;India&#34; coturnix" ; Times: 1
+	Query: "Astrapia nigra" ; Times: 1
+	Query: "saxicola jerdoni" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Junco vulcani" ; Times: 1
+	Query: "caerulescens Setophaga" ; Times: 5
+	Query: "Cyornis glaucicomans" ; Times: 5
+	Query: "Phoenicurus frontalis vntype:specimen" ; Times: 1
+	Query: "Saxicola jerdoni vntype:specimen" ; Times: 1
+	Query: "63118" ; Times: 1
+	Query: "Saxicola rubicola" ; Times: 1
+	Query: "claravis geoffroyi" ; Times: 4
+	Query: "spleen aves" ; Times: 2
+	Query: "Urocissa erythroryncha" ; Times: 1
+	Query: "setophaga virens year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "specificepithet:punctatus genus:Falco" ; Times: 2
+	Query: "Todiramphus macleayii New guinea" ; Times: 2
+	Query: "vntype:specimen specificepithet:cyanocephala[ genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicana genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "BCBF 141" ; Times: 1
+	Query: "Compsothraupis loricata" ; Times: 1
+	Query: "genus:Ardeotis australis" ; Times: 1
+	Query: "Junco vulcani boucard" ; Times: 1
+	Query: "genus:geothlypis country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:platurus genus:Prioniturus" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Pyrrhula murina" ; Times: 1
+	Query: "class:aves locality:kerio country:&#34;kenya&#34;" ; Times: 1
+	Query: "66686" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "Stercorariidae continent:Antarctica" ; Times: 6
+	Query: "Xema sabini continent:Europe" ; Times: 3
+	Query: "genus:setophaga country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "niltava grandis" ; Times: 2
+	Query: "17684" ; Times: 1
+	Query: "setophaga coronata year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:virens genus:setophaga country:&#34;canada&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "country:&#34;belarus&#34;" ; Times: 1
+	Query: "genus:Passer montanus hastissue:1" ; Times: 2
+	Query: "genus:certhia country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 6
+	Query: "28676" ; Times: 1
+	Query: "pycnonotus xanthopygos" ; Times: 4
+	Query: "Coccyzus americanus 2018" ; Times: 2
+	Query: "Coccyzus americanus 2019" ; Times: 2
+	Query: "papua Pygoscelis" ; Times: 1
+	Query: "Picus viridanus" ; Times: 1
+	Query: "albolarvatus Picoides" ; Times: 2
+	Query: "Tijuca atra" ; Times: 1
+	Query: "Pterocles India" ; Times: 2
+	Query: "Coccyzus americanus 2005" ; Times: 1
+	Query: "Coccyzus americanus 2007" ; Times: 1
+	Query: "52049" ; Times: 1
+	Query: "Cercotrichas signata" ; Times: 5
+	Query: "Zosterops japonicus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "BCBF-141" ; Times: 2
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "specificepithet:pictum genus:emblema class:aves" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Cinnyris osea" ; Times: 3
+	Query: "Larvivora cyane" ; Times: 1
+	Query: "specificepithet:phrygia genus:Anthochaera" ; Times: 6
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "67214" ; Times: 3
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "Todiramphus nigrocyaneus nigrocyaneus" ; Times: 1
+	Query: "genus:Alauda hastissue:1" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 4
+	Query: "Stercorariidae continent:Africa" ; Times: 5
+	Query: "class:Aves locality:Madras" ; Times: 3
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Charadrius melodus 2019" ; Times: 1
+	Query: "Charadrius melodus 2018" ; Times: 1
+	Query: "12953" ; Times: 1
+	Query: "geothlypis philadelphia year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Zosterops palpebrosus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "passer montanus" ; Times: 1
+	Query: "todiramphus cook" ; Times: 2
+	Query: "19803" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "vntype:specimen Ficedula speculigera" ; Times: 1
+	Query: "Ardea herodias AND Cruz Island" ; Times: 1
+	Query: "63905" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; coturnix" ; Times: 1
+	Query: "vntype:specimen Muscicapa ruficauda" ; Times: 1
+	Query: "vntype:specimen genus:Schistochlamys class:Aves country:&#34;brazil&#34;" ; Times: 1
+	Query: "Psittacula andaman" ; Times: 1
+	Query: "vntype:specimen specificepithet:dominicana genus:Paroaria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:longirostris genus:systellura" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "vntype:specimen specificepithet:velia genus:tangara class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves locality:Madras country:&#34;India&#34;" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "70530" ; Times: 1
+	Query: "70531" ; Times: 1
+	Query: "vntype:specimen Copsychus fulicatus" ; Times: 1
+	Query: "poephila cincta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1308 download events in this period)
+Total number of records downloaded: 1650
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 2
+	Country: United States ; Times: 28
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-26 ; Times: 3
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 7
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-04 ; Times: 5
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo platypterus" ; Times: 1
+	Query: "rhea pennata" ; Times: 1
+	Query: "Geospiza" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "anisognathus" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "genus:Passer domesticus hastissue:1" ; Times: 1
+	Query: "Camarhynchus" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Madras" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 2
+	Query: "anairetes parulus" ; Times: 1
+	Query: "Setophaga virens" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "class:Aves locality:Madras" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Pnoepyga" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "Hemispingus" ; Times: 1
+	Query: "heliothryx auritus" ; Times: 3
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "setophaga virens" ; Times: 2
+	Query: "Hemispingus superciliaris vntype:specimen" ; Times: 2
+	Query: "colinus virginianus" ; Times: 1
+	Query: "genus:Passer montanus hastissue:1" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Halcyon country:india" ; Times: 1
+	Query: "diglossa" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "amethystina" ; Times: 1
+	Query: "poephila cincta" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 4
+	Query: "chloephaga rubidiceps" ; Times: 2
+
+
+End of report.
