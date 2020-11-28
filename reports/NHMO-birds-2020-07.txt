@@ -1,0 +1,273 @@
+Report for Institution Code NHMO, Resource birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 212
+Number of records retrieved in searches: 1573
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: New Zealand ; Times: 4
+	Country: Peru ; Times: 3
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 12
+	Country: India ; Times: 9
+	Country: Sweden ; Times: 5
+	Country: United Kingdom ; Times: 7
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Spain ; Times: 2
+	Country: Ireland ; Times: 9
+	Country: Denmark ; Times: 9
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 93
+	Country: South Korea ; Times: 3
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 5
+	Date: 2020-07-21 ; Times: 28
+	Date: 2020-07-20 ; Times: 8
+	Date: 2020-07-27 ; Times: 13
+	Date: 2020-07-26 ; Times: 3
+	Date: 2020-07-22 ; Times: 11
+	Date: 2020-07-01 ; Times: 4
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-02 ; Times: 7
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-06 ; Times: 7
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-23 ; Times: 7
+	Date: 2020-07-29 ; Times: 25
+	Date: 2020-07-18 ; Times: 5
+	Date: 2020-07-19 ; Times: 3
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 7
+	Date: 2020-07-16 ; Times: 6
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 10
+	Date: 2020-07-17 ; Times: 9
+	Date: 2020-07-15 ; Times: 14
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "58955" ; Times: 1
+	Query: "Attila citriniventris" ; Times: 1
+	Query: "78725" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "specificepithet:erythrops genus:neocrex" ; Times: 2
+	Query: "Geoffroyus timorlaoensis" ; Times: 1
+	Query: "42543" ; Times: 1
+	Query: "vntype:specimen specificepithet:castaneiventris genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "chionis minor" ; Times: 2
+	Query: "genus:myzomela year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "harpactes fasciatus" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "aegithalos concinnus" ; Times: 6
+	Query: "vntype:specimen genus:saltator class:Aves country:&#34;Brazil&#34; institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "aviceda leuphotes india" ; Times: 1
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "myrmeciza loricata" ; Times: 1
+	Query: "vntype:specimen specificepithet:angolensis genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "motacilla maderaspatensis" ; Times: 4
+	Query: "sylvia melanocephala" ; Times: 2
+	Query: "Himantopus novaezelandiae" ; Times: 3
+	Query: "vntype:specimen genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Rostratula australis" ; Times: 1
+	Query: "mohoua albicilla" ; Times: 2
+	Query: "19863" ; Times: 1
+	Query: "genus:machetornis" ; Times: 1
+	Query: "genus:quelea" ; Times: 1
+	Query: "Haematopus moquini" ; Times: 2
+	Query: "23686" ; Times: 2
+	Query: "39186" ; Times: 1
+	Query: "81530" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Todiramphus OR Halcyon OR Todirhamphus ruficollaris" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "vntype:specimen genus:embernagra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "dendrocopos leucotos" ; Times: 3
+	Query: "institutioncode:nhmo" ; Times: 1
+	Query: "Petronia hastissue:1" ; Times: 1
+	Query: "Corvus corax" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "vntype:specimen genus:Coryphaspiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "eurystomus orientalis india" ; Times: 1
+	Query: "Chroicocephalus bulleri" ; Times: 1
+	Query: "cyanistes mongolia" ; Times: 4
+	Query: "Ampeliceps coronatus" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "78438" ; Times: 1
+	Query: "mohoua novaeseelandiae" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "91859" ; Times: 1
+	Query: "Glareola ocularis" ; Times: 2
+	Query: "70414" ; Times: 1
+	Query: "Aerodramus inexpectatus" ; Times: 1
+	Query: "Apus nipalensis" ; Times: 2
+	Query: "5867 aves" ; Times: 1
+	Query: "Manucodia ater" ; Times: 2
+	Query: "56042" ; Times: 1
+	Query: "specificepithet:melanocephala genus:sylvia hastissue:1" ; Times: 2
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "apus nipalensis" ; Times: 2
+	Query: "44107" ; Times: 1
+	Query: "93698" ; Times: 1
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 2
+	Query: "Cittura" ; Times: 1
+	Query: "saxicola jerdoni" ; Times: 1
+	Query: "Rynchops flavirostris" ; Times: 3
+	Query: "vntype:specimen genus:emberizoides class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "nothoprocta curvirostris" ; Times: 1
+	Query: "class:Aves country:&#34;Greenland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "40514" ; Times: 2
+	Query: "mohoua ochrocephala" ; Times: 2
+	Query: "anthus berthelotii vntype:specimen" ; Times: 5
+	Query: "Todiramphus OR Halcyon OR Todirhamphus veneratus" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 4
+	Query: "Todiramphus juliae" ; Times: 1
+	Query: "vntype:specimen specificepithet:THORACICA genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:NHMO" ; Times: 1
+	Query: "fratercula arctica" ; Times: 1
+	Query: "Todiramphus chloris Vanuatu" ; Times: 1
+	Query: "Sterna virgata" ; Times: 1
+	Query: "Androdon" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "specificepithet:olivaceus genus:vireo country:&#34;brazil&#34;" ; Times: 1
+	Query: "anthus berthelotii" ; Times: 1
+	Query: "88053" ; Times: 1
+	Query: "Leucophaeus fuliginosus" ; Times: 1
+	Query: "Regulus regulus india" ; Times: 1
+	Query: "64731 aves" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "passeriformes spleen" ; Times: 3
+	Query: "aves spleen" ; Times: 4
+	Query: "vntype:specimen specificepithet:bifasciatus genus:Psarocolius" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 8
+	Query: "hypocnemis peruviana" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "94277" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Glareola lactea" ; Times: 2
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "64731" ; Times: 2
+	Query: "28078" ; Times: 2
+	Query: "37676" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "Campylorhynchus fasciatus hastissue:1" ; Times: 1
+	Query: "aegithalos concinnus india" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "OR.5252" ; Times: 2
+	Query: "specificepithet:layardi order:galliformes" ; Times: 1
+	Query: "Cursorius coromandelicus" ; Times: 2
+	Query: "vntype:specimen specificepithet:fuliginosus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+	Query: "27947" ; Times: 2
+	Query: "21099" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "Cyanecula svecica" ; Times: 1
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "Sterna aurantia" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "Tarsiger rufilatus India" ; Times: 2
+	Query: "31031" ; Times: 1
+	Query: "Ichthyaetus leucophthalmus" ; Times: 1
+	Query: "Hierococcyx sparverioides" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "87481" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 940 download events in this period)
+Total number of records downloaded: 2609
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-27 ; Times: 6
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "Petronia hastissue:1" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "anthus berthelotii vntype:specimen" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 3
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:layardi order:galliformes" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+
+
+End of report.
