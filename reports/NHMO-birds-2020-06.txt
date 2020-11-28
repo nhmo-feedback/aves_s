@@ -1,0 +1,202 @@
+Report for Institution Code NHMO, Resource birds
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 164
+Number of records retrieved in searches: 1285
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 5
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 5
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 33
+	Country: Sweden ; Times: 16
+	Country: United Kingdom ; Times: 55
+	Country: Ireland ; Times: 6
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 12
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 5
+	Date: 2020-06-06 ; Times: 4
+	Date: 2020-06-07 ; Times: 10
+	Date: 2020-06-04 ; Times: 22
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-02 ; Times: 8
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 5
+	Date: 2020-06-10 ; Times: 60
+	Date: 2020-06-11 ; Times: 23
+	Date: 2020-06-12 ; Times: 2
+	Date: 2020-06-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:leucoptera genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "Anas crecca" ; Times: 6
+	Query: "Falco columbarius insignis" ; Times: 1
+	Query: "100399 aves" ; Times: 1
+	Query: "Paradigalla carunculata" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "93995" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "Anas acuta" ; Times: 5
+	Query: "Bubo coromandus india" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "21719" ; Times: 2
+	Query: "campephilus imperialis" ; Times: 3
+	Query: "Apus nipalensis" ; Times: 1
+	Query: "astrapia nigra" ; Times: 1
+	Query: "drepanornis albertisi" ; Times: 6
+	Query: "calyptura" ; Times: 3
+	Query: "callacanthis" ; Times: 3
+	Query: "Buteogallus lacernulatus" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 7
+	Query: "genus:Orthogonys specificepithet:chloricterus" ; Times: 2
+	Query: "Astrapia nigra" ; Times: 4
+	Query: "Pinguinus impennis" ; Times: 2
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "100499" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "Anas formosa" ; Times: 6
+	Query: "82441" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "Sialia sialis mass OR weight" ; Times: 2
+	Query: "Anas falcata" ; Times: 6
+	Query: "Aerodramus inexpectatus" ; Times: 2
+	Query: "Drepanornis albertisi albertisi" ; Times: 1
+	Query: "specificepithet:petrosus order:galliformes" ; Times: 1
+	Query: "Microhierax melanoleucos" ; Times: 2
+	Query: "specificepithet:pictus genus:Francolinus order:galliformes" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 6
+	Query: "Cairina moschata" ; Times: 3
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "specificepithet:pipra genus:Iodopleura" ; Times: 1
+	Query: "vntype:specimen specificepithet:bouvreuil genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:layardi order:galliformes" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 2
+	Query: "Touit melanonotus" ; Times: 1
+	Query: "specificepithet:lacernulatus genus:Buteogallus" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Drepanornis albertisi" ; Times: 3
+	Query: "specificepithet:schleiermacheri order:galliformes" ; Times: 8
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "Anas penelope" ; Times: 6
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "specificepithet:galeatus genus:Dryocopus" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "specificepithet:erythrorhyncha order:galliformes" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 4
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Touit" ; Times: 1
+	Query: "pycnonotus" ; Times: 1
+	Query: "Mergus merganser" ; Times: 2
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "100499 aves" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "Apus unicolor" ; Times: 1
+	Query: "Dryocopus galeatus" ; Times: 1
+	Query: "Microhierax caerulescens" ; Times: 1
+	Query: "collocalia uropygialis" ; Times: 1
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 1
+	Query: "Iodopleura pipra" ; Times: 1
+	Query: "Anas clypeata" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 474 download events in this period)
+Total number of records downloaded: 1520
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 33
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 46
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:montagnii order:galliformes" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "Oxyura vittata" ; Times: 1
+	Query: "specificepithet:vittata genus:Oxyura" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:asiatica order:galliformes" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:lerwa order:galliformes" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "specificepithet:swinhoii order:galliformes" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "calyptura" ; Times: 1
+	Query: "specificepithet:fusca genus:Florisuga" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "specificepithet:pictus genus:Francolinus order:galliformes" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:purpurascens order:galliformes" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:pipra genus:Iodopleura" ; Times: 1
+	Query: "specificepithet:layardi order:galliformes" ; Times: 1
+	Query: "Touit melanonotus" ; Times: 1
+	Query: "specificepithet:lacernulatus genus:Buteogallus" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "specificepithet:cruentus order:galliformes" ; Times: 1
+	Query: "specificepithet:galeatus genus:Dryocopus" ; Times: 1
+	Query: "specificepithet:erythrorhyncha order:galliformes" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Touit" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "Dryocopus galeatus" ; Times: 1
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+	Query: "Buteogallus lacernulatus" ; Times: 2
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "specificepithet:madagarensis order:galliformes" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "specificepithet:spadicea order:galliformes" ; Times: 1
+	Query: "Iodopleura pipra" ; Times: 1
+
+
+End of report.
