@@ -1,0 +1,311 @@
+Report for Institution Code NHMO, Resource birds
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 251
+Number of records retrieved in searches: 5975
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Norway ; Times: 2
+	Country: Denmark ; Times: 6
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 15
+	Country: United Kingdom ; Times: 115
+	Country: United States ; Times: 67
+	Country: Sweden ; Times: 3
+	Country: Belgium ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Switzerland ; Times: 13
+	Country: Kenya ; Times: 1
+	Country: Hong Kong ; Times: 5
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 13
+	Date: 2020-11-23 ; Times: 16
+	Date: 2020-11-24 ; Times: 10
+	Date: 2020-11-25 ; Times: 5
+	Date: 2020-11-26 ; Times: 23
+	Date: 2020-11-09 ; Times: 6
+	Date: 2020-11-06 ; Times: 8
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-05 ; Times: 13
+	Date: 2020-11-02 ; Times: 93
+	Date: 2020-11-03 ; Times: 2
+	Date: 2020-11-08 ; Times: 3
+	Date: 2020-11-27 ; Times: 3
+	Date: 2020-11-19 ; Times: 3
+	Date: 2020-11-18 ; Times: 5
+	Date: 2020-11-30 ; Times: 8
+	Date: 2020-11-15 ; Times: 7
+	Date: 2020-11-14 ; Times: 2
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-16 ; Times: 7
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-13 ; Times: 11
+	Date: 2020-11-12 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "30186" ; Times: 1
+	Query: "Bubulcus ibis" ; Times: 2
+	Query: "Cypsiurus parvus" ; Times: 1
+	Query: "Prunella fulvescens" ; Times: 1
+	Query: "Aerodramus fuciphagus" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "Pyrgilauda davidiana" ; Times: 1
+	Query: "63396" ; Times: 1
+	Query: "genus:ABEILLIA hastissue:1" ; Times: 1
+	Query: "Turdus cardis" ; Times: 1
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 1
+	Query: "Garrulus glandarius" ; Times: 4
+	Query: "Corvus corone" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "cyanistes cyanus" ; Times: 1
+	Query: "Prunella montanella" ; Times: 1
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;Japan&#34;" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza hastissue:1" ; Times: 2
+	Query: "morus bassanus vntype:specimen continent:europe AND (NOT eggs)" ; Times: 1
+	Query: "Hypsipetes amaurotis" ; Times: 1
+	Query: "Himantopus novaezelandiae" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "15255 ficedula" ; Times: 1
+	Query: "scientificname:Ardea cinerea" ; Times: 1
+	Query: "62435" ; Times: 2
+	Query: "Corvus splendens" ; Times: 1
+	Query: "51561" ; Times: 1
+	Query: "Megalurus punctatus" ; Times: 1
+	Query: "Dendrocopos major" ; Times: 2
+	Query: "scientificname:Rupicola peruvianus*" ; Times: 1
+	Query: "Accipiter nisus" ; Times: 2
+	Query: "catalognumber:51695" ; Times: 2
+	Query: "Horornis fortipes" ; Times: 1
+	Query: "46277" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "gallinago nemoricola" ; Times: 1
+	Query: "south Africa year &gt; 2015" ; Times: 2
+	Query: "Cacomantis sonneratii" ; Times: 1
+	Query: "Acrocephalus scirpaceus" ; Times: 1
+	Query: "genus:Leucocarbo" ; Times: 1
+	Query: "Spilornis cheela" ; Times: 1
+	Query: "vntype:specimen genus:odontophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "anser serrirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:jacutinga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Acrocephalus arundinaceus" ; Times: 1
+	Query: "Anhinga rufa" ; Times: 1
+	Query: "class:aves institutioncode:NHMO" ; Times: 1
+	Query: "32554" ; Times: 1
+	Query: "Apus melba" ; Times: 1
+	Query: "Amaurornis flavirostra" ; Times: 2
+	Query: "genus:halcyon smyrnensis hastissue:1" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 2
+	Query: "catalognumber:94206" ; Times: 1
+	Query: "Ficedula zanthopygia" ; Times: 1
+	Query: "Apus nipalensis" ; Times: 1
+	Query: "20507" ; Times: 1
+	Query: "Phoenicurus phoenicurus" ; Times: 1
+	Query: "vntype:specimen specificepithet:capueira genus:odontophorus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 1
+	Query: "Bat samples" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "Parus cyanistes" ; Times: 2
+	Query: "calonectris diomedea" ; Times: 1
+	Query: "Prunella modularis" ; Times: 1
+	Query: "22086" ; Times: 1
+	Query: "Sylvia atricapilla" ; Times: 2
+	Query: "Phylloscopus fuscatus" ; Times: 1
+	Query: "51046" ; Times: 1
+	Query: "vntype:specimen genus:PIPILE class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Arachnothera longirostra buettikoferi" ; Times: 2
+	Query: "Oenanthe pleschanka tissue" ; Times: 2
+	Query: "Falco naumanni" ; Times: 2
+	Query: "47889" ; Times: 1
+	Query: "Turdus hortulorum" ; Times: 1
+	Query: "genus:geokichla sibirica hastissue:1" ; Times: 1
+	Query: "Turtur chalcospilos" ; Times: 2
+	Query: "Phoenicurus auroreus" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "Ficedula albicilla" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 1
+	Query: "vntype:specimen genus:Pipile class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Iduna aedon" ; Times: 1
+	Query: "Falco columbarius" ; Times: 2
+	Query: "Myadestes myadestinus" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 1
+	Query: "turnix nanus" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Acrocephalus dumetorum" ; Times: 1
+	Query: "Delichon urbicum" ; Times: 1
+	Query: "vntype:specimen genus:Toxorhamphus" ; Times: 1
+	Query: "Lonchura cucullata" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "Apus pacificus" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "23496" ; Times: 2
+	Query: "Pycnonotus xanthorrhous" ; Times: 1
+	Query: "puffinus yelkouan" ; Times: 4
+	Query: "Tachycineta albiventer" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "Megapodius layardi" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 2
+	Query: "Apus unicolor" ; Times: 6
+	Query: "Petroica macrocephala" ; Times: 1
+	Query: "Apalopteron familiare" ; Times: 2
+	Query: "Anser serrirostris year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Rhagologus leucostigma" ; Times: 1
+	Query: "amazona festiva" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "Acrocephalus orientalis" ; Times: 1
+	Query: "50647" ; Times: 1
+	Query: "Callacanthis burtoni" ; Times: 1
+	Query: "apus unicolor" ; Times: 2
+	Query: "46899" ; Times: 1
+	Query: "Geokichla sibirica" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "specificepithet:schoeniclus genus:Emberiza hastissue:1" ; Times: 2
+	Query: "53616" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 6
+	Query: "Alophoixus pallidus" ; Times: 1
+	Query: "specificepithet:petechia AND (NOT &#34;United States&#34; AND NOT USA AND NOT Canada)" ; Times: 1
+	Query: "genus:Pipile class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Phylloscopus inornatus" ; Times: 1
+	Query: "Turdus kessleri" ; Times: 1
+	Query: "hymenolaimus hymenolaimus" ; Times: 1
+	Query: "Spodiopsar sericeus" ; Times: 1
+	Query: "35575" ; Times: 1
+	Query: "Pinguinus impennis vntype:specimen" ; Times: 1
+	Query: "(Oenanthe hispanica) year &gt;= 1950" ; Times: 1
+	Query: "15255" ; Times: 1
+	Query: "Oenanthe isabellina" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 3
+	Query: "Numida meleagris" ; Times: 2
+	Query: "Ficedula albicollis" ; Times: 1
+	Query: "vntype:specimen specificepithet:marail genus:Penelope class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Gracupica nigricollis" ; Times: 1
+	Query: "passeriformes spleen" ; Times: 1
+	Query: "specificepithet:arquata genus:numenius hastissue:1" ; Times: 1
+	Query: "Spodiopsar cineraceus" ; Times: 1
+	Query: "avian" ; Times: 1
+	Query: "specificepithet:turtur genus:streptopelia hastissue:1" ; Times: 1
+	Query: "37865" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "mappable:1 scientificname:Myrmotherula axillaris" ; Times: 1
+	Query: "Circus ranivorus" ; Times: 1
+	Query: "Anser fabalis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Actophilornis africanus" ; Times: 2
+	Query: "Ceyx pusillus" ; Times: 4
+	Query: "scientificname:Merops apiaster" ; Times: 1
+	Query: "28568" ; Times: 1
+	Query: "Columba livia" ; Times: 2
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "morus bassanus vntype:specimen country:&#34;united kingdom&#34; AND (NOT eggs)" ; Times: 2
+	Query: "Hypsipetes leucocephalus" ; Times: 1
+	Query: "Phylloscopus proregulus" ; Times: 1
+	Query: "eggshell" ; Times: 1
+	Query: "Acrocephalus bistrigiceps" ; Times: 1
+	Query: "family:Alaudidae hastissue:1" ; Times: 1
+	Query: "pharomachrus mocinno study skin" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "vntype:specimen specificepithet:paykullii family:Rallidae hastissue:1" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "Oenanthe pleschanka blood" ; Times: 1
+	Query: "Onychostruthus taczanowskii" ; Times: 1
+	Query: "natural history museum oslo" ; Times: 1
+	Query: "specificepithet:pallasi genus:Emberiza hastissue:1" ; Times: 1
+	Query: "specificepithet:layardi genus:Megapodius" ; Times: 2
+	Query: "Ixos mcclellandii" ; Times: 1
+	Query: "ceyx erithaca" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 7
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "Oenanthe melanoleuca" ; Times: 1
+	Query: "Sitta europaea" ; Times: 2
+	Query: "(Oenanthe melanoleuca) year &gt;= 1950" ; Times: 1
+	Query: "Falco tinnunculus" ; Times: 2
+	Query: "60802" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "specificepithet:rustica genus:Emberiza hastissue:1" ; Times: 2
+	Query: "catalognumber:56576" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 1
+	Query: "12415" ; Times: 2
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "Dendrocygna arcuata" ; Times: 2
+	Query: "Thalassoica antarctica" ; Times: 1
+	Query: "tachornis" ; Times: 1
+	Query: "Bradypterus baboecala" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 842 download events in this period)
+Total number of records downloaded: 6609
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Hong Kong ; Times: 4
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-24 ; Times: 4
+	Date: 2020-11-25 ; Times: 2
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-09 ; Times: 4
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-16 ; Times: 2
+	Date: 2020-11-10 ; Times: 9
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-03 ; Times: 6
+	Date: 2020-11-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:bicolor genus:Baeolophus" ; Times: 2
+	Query: "vntype:specimen specificepithet:Lagopus genus:Lagopus" ; Times: 2
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Moho braccatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "pharomachrus mocinno study skin" ; Times: 1
+	Query: "vntype:specimen specificepithet:corniculata genus:Fratercula" ; Times: 2
+	Query: "genus:Leucocarbo" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza hastissue:1" ; Times: 1
+	Query: "specificepithet:pallasi genus:Emberiza hastissue:1" ; Times: 1
+	Query: "specificepithet:schoeniclus genus:Emberiza hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "ceyx erithaca" ; Times: 1
+	Query: "specificepithet:petechia AND (NOT &#34;United States&#34; AND NOT USA AND NOT Canada)" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "vntype:specimen genus:Toxorhamphus" ; Times: 1
+	Query: "specificepithet:rustica genus:Emberiza hastissue:1" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Lagopus" ; Times: 3
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Thalassoica antarctica" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+
+
+End of report.
